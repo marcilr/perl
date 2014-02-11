@@ -1,0 +1,47 @@
+perl.txt
+Created Mon Dec 28 19:31:30 AKST 2009
+by Raymond E. Marcil
+
+
+Perl is sometimes called the "Practical Extraction and Report Language,"
+although it has also been called a "Pathologically Eclectic Rubbish Lister,"
+among other expansions.  It's actually a backronym, not an acronym, since
+Larry Wall, Perl's creator, came up with the name first and the expansion
+later.  That's why "Perl" isn't in all caps.  There's no point in arguing
+which expansion is correct: Larry endorses both.
+
+You may also see "perl" with a lowercase p in some writing.  In general,
+"Perl" with a capital P refers to the language and "perl" with a lowercase p
+refers to the actual interpreter that compiles and runs your programs.  In
+the house style, we write the names of programs like perl.
+
+Learning Perl, 6th Edition, What Does "Perl" Stand For?,
+Learning_Perl_Sixth_Edition.pdf, p. 4
+
+
+Why sometimes Makefile.PL fails?
+================================
+Sometimes, perl Makefile.PL fails with something like:
+
+*** can not find package gobject-2.0 >= 2.0.0
+*** check that it is properly installed and available in PKG_CONFIG_PATH
+  at Makefile.PL line 81
+
+When running perl Makefile.PL the most common cause of error messages 
+similar to the above are missing devel packages. The problem is that you 
+need to have the glib/gtk+/etc. devel packages installed, those include 
+the necessary header files and the pkg-config files for compliation.
+
+If you are on debian, you can install the pre-requisite packages using 
+the following
+
+$ apt-get install libglib2.0-dev
+$ apt-get install libgtk2.0-dev
+
+gnome.org/
+
+
+Links
+=====
+Gtk2-Perl Home Page
+http://live.gnome.org/GTK2-Perl/FrequentlyAskedQuestions
