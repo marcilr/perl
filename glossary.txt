@@ -1,0 +1,25 @@
+glossary.txt
+Created Mon May  6 12:09:07 AKDT 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary for Perl
+
+CPAN - The Comprehensive Perl Archive Network has over 25,000 open source
+  distributions available for download.
+  http://www.perl.org/cpan.html
+
+Perl - Perl is sometimes called the "Practical Extraction and Report Language,"
+  although it has also been called a "Pathologically Eclectic Rubbish Lister,"
+  among other expansions.  It's actually a backronym, not an acronym, since
+  Larry Wall, Perl's creator, came up with the name first and the expansion
+  later.  That's why "Perl" isn't in all caps.  There's no point in arguing
+  which expansion is correct: Larry endorses both.
+
+  You may also see "perl" with a lowercase p in some writing.  In general,
+  "Perl" with a capital P refers to the language and "perl" with a lowercase p
+  refers to the actual interpreter that compiles and runs your programs.  In
+  the house style, we write the names of programs like perl.
+
+  Learning Perl, 6th Edition, What Does "Perl" Stand For?,
+  Learning_Perl_Sixth_Edition.pdf, p. 4
