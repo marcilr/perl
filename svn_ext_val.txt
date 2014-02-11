@@ -1,0 +1,19 @@
+#
+# svn_ext_val.txt
+# Created Wed May  1 16:15:24 AKDT 2013
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under perl/
+#
+# 00ARCHIVES/   Archives
+# docs/         Documentation
+# modules/      Modules
+# src/          Source code
+#
+./00ARCHIVES    svn+ssh://home/data/svnroot/compsci/lang/perl/00ARCHIVES/00ARCHIVES
+./docs          svn+ssh://home/data/svnroot/compsci/lang/perl/docs/docs
+./modules       svn+ssh://home/data/svnroot/compsci/lang/perl/modules/modules
+./src           svn+ssh://home/data/svnroot/compsci/lang/perl/src/src
