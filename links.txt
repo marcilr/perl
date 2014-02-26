@@ -45,6 +45,9 @@ http://www.perl6.org/
 Perl Modules Using CPAN
 http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
 
+Perl Style
+http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
+
 The Perl Community
 Perl has an active world wide community with over 300 local groups, mailing
 lists and support/discussion websites.
