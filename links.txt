@@ -38,9 +38,16 @@ With free online books, over 25,000 extension modules, and a large developer
 community, there are many ways to learn Perl 5.
 http://www.perl.org/learn.html
 
+Perl.org Tutorials
+http://perldoc.perl.org/index-tutorials.html
+
 Perl 6 is a sister language, part of the Perl family.  Perl 6 is not production
 ready yet, you can get involved with its development though.
 http://www.perl6.org/
+
+Perl Design Patterns Wiki,
+or Chicken Bones for the Voodoo Programmer Soul
+http://perldesignpatterns.com/?PerlDesignPatterns
 
 Perl Modules Using CPAN
 http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
@@ -56,3 +63,7 @@ http://www.perl.org/community.html
 The Perl Foundation is dedicated to the advancement of the Perl programming
 language through open discussion, collaboration, design, and code.
 http://www.perlfoundation.org/
+
+Writing Serious Perl: The absolute minimum you need to know
+http://www.netalive.org/tinkering/serious-perl
+
