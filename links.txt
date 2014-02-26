@@ -63,7 +63,3 @@ http://www.perl.org/community.html
 The Perl Foundation is dedicated to the advancement of the Perl programming
 language through open discussion, collaboration, design, and code.
 http://www.perlfoundation.org/
-
-Writing Serious Perl: The absolute minimum you need to know
-http://www.netalive.org/tinkering/serious-perl
-
