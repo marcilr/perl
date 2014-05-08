@@ -55,6 +55,10 @@ http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
 Perl Style
 http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
 
+perl - if statement syntax
+perl - if conditional statements
+http://www.tizag.com/perlT/perlif.php
+
 Perl string array - How to create and use an array of strings
 By Alvin Alexander. Last updated: Feb 8, 2014
 http://alvinalexander.com/blog/post/perl/how-create-array-list-strings-loop-for-foreach-perl
