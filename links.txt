@@ -52,6 +52,10 @@ http://perldesignpatterns.com/?PerlDesignPatterns
 Perl Modules Using CPAN
 http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
 
+Perl Programming
+Greate syntax on many topics available here          <===
+http://www.tutorialspoint.com/perl/perl_arrays.htm
+
 Perl Style
 http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
 
