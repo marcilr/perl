@@ -23,6 +23,7 @@
 #
 # src/          Source code
 # syntax/       Syntax
+# variables/    Variables
 #
 ./00ARCHIVES    svn+ssh://home/data/svnroot/compsci/lang/perl/00ARCHIVES/00ARCHIVES
 ./docs          svn+ssh://home/data/svnroot/compsci/lang/perl/docs/docs
@@ -30,3 +31,4 @@
 ./pod           svn+ssh://home/data/svnroot/compsci/lang/perl/pod/pod
 ./src           svn+ssh://home/data/svnroot/compsci/lang/perl/src/src
 ./syntax        svn+ssh://home/data/svnroot/compsci/lang/perl/syntax/syntax
+./variables     svn+ssh://home/data/svnroot/compsci/lang/perl/variables/variables
