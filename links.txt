@@ -63,6 +63,17 @@ Perl string array - How to create and use an array of strings
 By Alvin Alexander. Last updated: Feb 8, 2014
 http://alvinalexander.com/blog/post/perl/how-create-array-list-strings-loop-for-foreach-perl
 
+
+Scoping
+One thing you need to know to master Perl is how to deal with the scoping
+mechanisms it provides you with.  You want globals? You got 'em!  You want to
+avoid "collisions" (two variables with the same name clobbering each other)?
+You got it, and there's more than one way to manage the trick.  But Perl's
+scoping rules aren't always so well understood, and it's not just the
+difference between my and local that trips people up, although clearing that
+up is going to be one of my purposes.
+http://www.perlmonks.org/?node_id=66677
+
 The Perl Community
 Perl has an active world wide community with over 300 local groups, mailing
 lists and support/discussion websites.
