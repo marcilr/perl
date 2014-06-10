@@ -22,6 +22,10 @@ Documentation
 Core documentation, FAQs and translations.
 http://www.perl.org/docs.html
 
+Echo Environment Variables
+Good stuff.
+http://www.cs.unc.edu/~jbs/resources/perl/perl-cgi/step5.html
+
 Events and Conferences
 Conferences, social and technical events around the world offer lots of
 networking and learning opportunities.
