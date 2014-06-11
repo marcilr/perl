@@ -66,6 +66,17 @@ http://www.tutorialspoint.com/perl/perl_arrays.htm
 Perl Style
 http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
 
+perlobj
+Perl 5 version 18.2 documentation
+There are a few basic principles which define object oriented Perl:
+1. An object is simply a data structure that knows to which class it
+   belongs.
+2. A class is simply a package.  A class provides methods that expect
+   to operate on objects.
+3. A method is simply a subroutine that expects a reference to an
+   object (or a package name, for class methods) as the first argument.
+http://perldoc.perl.org/perlobj.html
+
 The Perl Community
 Perl has an active world wide community with over 300 local groups, mailing
 lists and support/discussion websites.
