@@ -52,13 +52,10 @@ http://perldoc.perl.org/index-tutorials.html
 
 perlobj
 Perl 5 version 18.2 documentation
-There are a few basic principles which define object oriented Perl:
-1. An object is simply a data structure that knows to which class it
-   belongs.
-2. A class is simply a package.  A class provides methods that expect
-   to operate on objects.
-3. A method is simply a subroutine that expects a reference to an
-   object (or a package name, for class methods) as the first argument.
+Create link with fine details on classes (packages),
+objects, blessed, methods (subroutines), method invocation,
+inheritance, accessors, constructors, attributes, and destructors.
+This is it! 
 http://perldoc.perl.org/perlobj.html
 
 The Perl Community
