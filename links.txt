@@ -8,23 +8,9 @@ Perl related links
 
 Links
 =====
-CPAN - Comprehensive Perl Archive Network
-LWPS, POES, AND DBIS -- OH MY!
-http://www.cpan.org/
-
-CPAN - Frequently Asked Questions
-http://www.cpan.org/misc/cpan-faq.html#What_is_CPAN
-
-CPAN - Query, download and build perl modules from CPAN sites
-http://kobesearch.cpan.org/htdocs/CPAN/CPAN.html
-
 Documentation
 Core documentation, FAQs and translations.
 http://www.perl.org/docs.html
-
-Echo Environment Variables
-Good stuff.
-http://www.cs.unc.edu/~jbs/resources/perl/perl-cgi/step5.html
 
 Events and Conferences
 Conferences, social and technical events around the world offer lots of
@@ -34,9 +20,6 @@ http://www.perl.org/events.html
 Gtk2-Perl Home Page
 http://live.gnome.org/GTK2-Perl/FrequentlyAskedQuestions
 
-How to install CPAN modules
-http://www.cpan.org/modules/INSTALL.html
-
 Learning Perl 5
 With free online books, over 25,000 extension modules, and a large developer
 community, there are many ways to learn Perl 5.
@@ -45,11 +28,9 @@ http://www.perl.org/learn.html
 Perl Tips and Tricks
 http://alumnus.caltech.edu/~svhwan/prodScript/addCurrentToPath.html
 
-Perl.org Tutorials
-http://perldoc.perl.org/index-tutorials.html
-
-Perl 6 is a sister language, part of the Perl family.  Perl 6 is not production
-ready yet, you can get involved with its development though.
+Perl 6 is a sister language, part of the Perl family.
+Perl 6 is not production ready yet, you can get involved
+with its development though.
 http://www.perl6.org/
 
 Perl Design Patterns Wiki,
@@ -65,6 +46,9 @@ http://www.tutorialspoint.com/perl/perl_arrays.htm
 
 Perl Style
 http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
+
+Perl.org Tutorials
+http://perldoc.perl.org/index-tutorials.html
 
 perlobj
 Perl 5 version 18.2 documentation
