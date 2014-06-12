@@ -8,6 +8,10 @@ Perl related links
 
 Links
 =====
+Beginner's Introduction to Perl
+By Doug Sheppard on October 16, 2000 12:00 AM
+http://www.perl.com/pub/2000/10/begperl1.html
+
 Documentation
 Core documentation, FAQs and translations.
 http://www.perl.org/docs.html
