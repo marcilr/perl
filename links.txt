@@ -54,6 +54,11 @@ http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
 Perl.org Tutorials
 http://perldoc.perl.org/index-tutorials.html
 
+perldoc
+Perl programming documentation
+Perl 5 version 18.2 documentation
+http://perldoc.perl.org/
+
 perlfaq3
 Perl 5 version 18.2 documentation
 Home > FAQs > perlfaq3
