@@ -32,6 +32,9 @@ http://www.perl.org/learn.html
 Perl Tips and Tricks
 http://alumnus.caltech.edu/~svhwan/prodScript/addCurrentToPath.html
 
+Perl 6 and Perl 5 differences
+http://perlcabal.org/syn/Differences.html
+
 Perl 6 is a sister language, part of the Perl family.
 Perl 6 is not production ready yet, you can get involved
 with its development though.
