@@ -13,6 +13,8 @@
 # docs/         Documentation
 # modules/      Modules
 #
+# pdf/          Portable Document Format files
+#
 # pod/          the Plain Old Documentation format
 #               Pod is a simple-to-use markup language used for writing
 #               documentation for Perl, Perl programs, and Perl modules.
@@ -29,6 +31,7 @@
 ../../perl/00ERRORS/00ERRORS       ./00ERRORS
 ../../perl/docs/docs               ./docs
 ../../perl/modules/modules         ./modules
+../../perl/pdf/pdf                 ./pdf
 ../../perl/pod/pod                 ./pod
 ../../perl/src/src                 ./src
 ../../perl/syntax/syntax           ./syntax
