@@ -14,16 +14,6 @@
 # modules/      Modules
 #
 # pdf/          Portable Document Format files
-#
-# pod/          the Plain Old Documentation format
-#               Pod is a simple-to-use markup language used for writing
-#               documentation for Perl, Perl programs, and Perl modules.
-#               Translators are available for converting Pod to various
-#               formats like plain text, HTML, man pages, and more.
-#               Pod markup consists of three basic kinds of paragraphs:
-#               ordinary, verbatim, and command.
-#               http://perldoc.perl.org/perlpod.html
-#
 # src/          Source code
 # syntax/       Syntax
 #
@@ -32,6 +22,5 @@
 ../../perl/docs/docs               ./docs
 ../../perl/modules/modules         ./modules
 ../../perl/pdf/pdf                 ./pdf
-../../perl/pod/pod                 ./pod
 ../../perl/src/src                 ./src
 ../../perl/syntax/syntax           ./syntax
