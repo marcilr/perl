@@ -34,6 +34,9 @@ With free online books, over 25,000 extension modules, and a large developer
 community, there are many ways to learn Perl 5.
 http://www.perl.org/learn.html
 
+Perl Programming books
+http://e-books-raheel.blogspot.com/2009/10/perl-programming.html
+
 Perl Tips and Tricks
 http://alumnus.caltech.edu/~svhwan/prodScript/addCurrentToPath.html
 
