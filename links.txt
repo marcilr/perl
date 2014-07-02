@@ -35,6 +35,7 @@ community, there are many ways to learn Perl 5.
 http://www.perl.org/learn.html
 
 Perl Programming books
+Many solid e-book links here
 http://e-books-raheel.blogspot.com/2009/10/perl-programming.html
 
 Perl Tips and Tricks
@@ -88,6 +89,14 @@ objects, blessed, methods (subroutines), method invocation,
 inheritance, accessors, constructors, attributes, and destructors.
 This is it! 
 http://perldoc.perl.org/perlobj.html
+
+Picking Up Perl, 2nd Edition 
+B.M. Kuhn and N.A. Smyth
+http://www.linuxtopia.org/Perl_Programming/pickingUpPerl.html
+
+Practical Perl Programming 
+1999-2005 A. D. Marshall
+http://www.cs.cf.ac.uk/Dave/PERL/perl_caller.html
 
 The Perl Community
 Perl has an active world wide community with over 300 local groups, mailing
