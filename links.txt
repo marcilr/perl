@@ -47,6 +47,11 @@ With free online books, over 25,000 extension modules, and a large developer
 community, there are many ways to learn Perl 5.
 http://www.perl.org/learn.html
 
+Perl 101 
+Things Every Perl Programmer Should Know
+Great set of pages
+http://perl101.org/index.html
+
 Perl Programming books
 Many solid e-book links here
 http://e-books-raheel.blogspot.com/2009/10/perl-programming.html
