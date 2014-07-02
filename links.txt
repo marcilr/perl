@@ -8,6 +8,19 @@ Perl related links
 
 Links
 =====
+16 of the Best Free Perl Books - Part 1
+Wow, great list of books.
+http://www.linuxlinks.com/article/2013010507211097/16oftheBestFreePerlBooks-Part1.html
+
+16 of the Best Free Perl Books - Part 2
+http://www.linuxlinks.com/article/20130105072140447/16oftheBestFreePerlBooks-Part2.html
+
+16 of the Best Free Perl Books - Part 3
+http://www.linuxlinks.com/article/20130105072159897/16oftheBestFreePerlBooks-Part3.html
+
+16 of the Best Free Perl Books - Part 4
+http://www.linuxlinks.com/article/20130105072219114/16oftheBestFreePerlBooks-Part4.html
+
 Beginner's Introduction to Perl
 By Doug Sheppard on October 16, 2000 12:00 AM
 Really need to go through this.
