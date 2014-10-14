@@ -47,6 +47,9 @@ With free online books, over 25,000 extension modules, and a large developer
 community, there are many ways to learn Perl 5.
 http://www.perl.org/learn.html
 
+Lexical vs. Package Variables (With a little local thrown in)
+http://www.perlmonks.org/?node_id=95813
+
 Perl 101 
 Things Every Perl Programmer Should Know
 Great set of pages
