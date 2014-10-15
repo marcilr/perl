@@ -39,6 +39,12 @@ Conferences, social and technical events around the world offer lots of
 networking and learning opportunities.
 http://www.perl.org/events.html
 
+Five Ways to Improve Your Perl Programming
+Some very good information here, such as:
+Cleaning Up Your Code (Chapter 7) - Perl::Tidy
+Logging (Chapter 13) - Log4perl
+http://www.onlamp.com/2007/04/12/five-ways-to-improve-your-perl-programming.html
+
 Gtk2-Perl Home Page
 http://live.gnome.org/GTK2-Perl/FrequentlyAskedQuestions
 
