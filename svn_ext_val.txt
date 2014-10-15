@@ -11,9 +11,12 @@
 # 00ARCHIVES/   Archives
 # 00ERRORS/     Errors
 # docs/         Documentation
+#
 # gci/          GCI Network Services, OSS
 #               Start date - October 7, 2014
 #               Plenty of perl classes and modules
+#
+# logging/      Logging
 # modules/      Modules
 #
 # pdf/          Portable Document Format files
@@ -24,6 +27,7 @@
 ../../perl/00ERRORS/00ERRORS       ./00ERRORS
 ../../perl/docs/docs               ./docs
 ../../perl/gci/gci                 ./gci
+../../perl/logging/logging         ./logging
 ../../perl/modules/modules         ./modules
 ../../perl/pdf/pdf                 ./pdf
 ../../perl/src/src                 ./src
