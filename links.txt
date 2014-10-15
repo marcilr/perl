@@ -50,6 +50,10 @@ http://www.perl.org/learn.html
 Lexical vs. Package Variables (With a little local thrown in)
 http://www.perlmonks.org/?node_id=95813
 
+Log4Perl
+Good information on closures here.
+http://log4perl.sourceforge.net/releases/Log-Log4perl/docs/html/Log/Log4perl.html
+
 Perl 101 
 Things Every Perl Programmer Should Know
 Great set of pages
