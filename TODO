@@ -3,8 +3,26 @@ Created Mon Jun  9 16:01:56 AKDT 2014
 Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 
 
++++ Wed Oct 22 08:52:18 AKDT 2014 - Use of "@" prefix in
+waveguide-switch-wti.pl variable assignments:
+
++++ Wed Oct 22 08:52:18 AKDT 2014 - Improved understanding of 
+Logger.pm and make_log_closure().
+
++++ Wed Oct 22 08:52:18 AKDT 2014 - Use of "our" vs. qw() for global
+variables.
+
+# Globals
+our $VERSION = '0.0.1';
+
+use vars qw ( 
+              $opt
+              $resourceName
+            );
+
+
 +++ Mon Jun  9 16:01:56 AKDT 2014 - Need to check out and understand the use of
-$, and $" at:
+  $, and $" at:
   Easy way to print perl array? (with a little formatting)
   Interesting details about the use of $, and $"
   http://stackoverflow.com/questions/5741101/easy-way-to-print-perl-array-with-a-little-formatting
