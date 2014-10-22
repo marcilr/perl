@@ -3,6 +3,9 @@ Created Mon Dec 28 19:31:30 AKST 2009
 by Raymond E. Marcil
 
 
+PERL -- Practical Extraction and Report Language
+
+
 Perl is sometimes called the "Practical Extraction and Report Language,"
 although it has also been called a "Pathologically Eclectic Rubbish Lister,"
 among other expansions.  It's actually a backronym, not an acronym, since
