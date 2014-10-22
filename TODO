@@ -3,8 +3,18 @@ Created Mon Jun  9 16:01:56 AKDT 2014
 Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-+++ Wed Oct 22 08:52:18 AKDT 2014 - Use of "@" prefix in
-waveguide-switch-wti.pl variable assignments:
++++ Wed Oct 22 08:52:18 AKDT 2014 - Use of "@$" in
+variable assignments:
+
+submit-waveguide-switch-request.plx:148
+# If there is a valid current state and it matches the desired state
+if ( defined $current && 1 == scalar( @$current ) && $opt->{antenna} eq lc( $$c$
+{
+    # Set the time elements to be older than the current state
+    $waveguide->{dt}   = "'$$current[0]->{dtevent}' - INTERVAL 1 SECOND";
+    $waveguide->{usec} = $$current[0]->{usecevent};
+}
+
 
 +++ Wed Oct 22 08:52:18 AKDT 2014 - Improved understanding of 
 Logger.pm and make_log_closure().
