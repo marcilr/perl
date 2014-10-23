@@ -3,6 +3,12 @@ Created Mon Jun  9 16:01:56 AKDT 2014
 Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 
 
++++ Wed Oct 22 16:13:04 AKDT 2014 - Do Gabor Szabo's Perl tutorial.
+He is the Perl Maven.  Appears to cover darn near everything:
+
+  Perl tutorial
+  http://perlmaven.com/perl-tutorial
+
 +++ Wed Oct 22 08:52:18 AKDT 2014 - Use of "@$" in
 variable assignments:
 
