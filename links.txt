@@ -60,6 +60,10 @@ Log4Perl
 Good information on closures here.
 http://log4perl.sourceforge.net/releases/Log-Log4perl/docs/html/Log/Log4perl.html
 
+Padre, the Perl IDE
+Written by Gabor Szabo, the original creator of Padre
+http://padre.perlide.org/
+
 Perl 101 
 Things Every Perl Programmer Should Know
 Great set of pages
@@ -93,6 +97,11 @@ http://www.tutorialspoint.com/perl/perl_arrays.htm
 
 Perl Style
 http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
+
+Perl tutorial
+by Gabor Szabo
+Should do this looks solid
+http://perlmaven.com/perl-tutorial
 
 Perl Weekly
 A free, once a week e-mail round-up of hand-picked news and articles about Perl.
