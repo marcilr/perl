@@ -82,6 +82,12 @@ Things Every Perl Programmer Should Know
 Great set of pages
 http://perl101.org/index.html
 
+Perl 5 by Example
+by David Medinets
+Has solid eval() info.
+http://read.pudn.com/downloads99/ebook/404334/Perl%205%20By%20Example.Pdf
+http://affy.blogspot.com/p5be/index.htm
+
 Perl 6 and Perl 5 differences
 http://perlcabal.org/syn/Differences.html
 
