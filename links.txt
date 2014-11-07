@@ -6,6 +6,10 @@ Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 Perl related links
 
 
+Usenet Newsgroups:
+  news:comp.lang.perl.announce, news:comp.lang.perl.misc.
+
+
 Links
 =====
 16 of the Best Free Perl Books - Part 1
@@ -64,17 +68,19 @@ Padre, the Perl IDE
 Written by Gabor Szabo, the original creator of Padre
 http://padre.perlide.org/
 
+Perl FAQ
+http://www.perl.com/perl/faq/
+
+Perl home page
+http://www.perl.com
+
+Perl Insitute
+http://www.perl.org/
+
 Perl 101 
 Things Every Perl Programmer Should Know
 Great set of pages
 http://perl101.org/index.html
-
-Perl Programming books
-Many solid e-book links here
-http://e-books-raheel.blogspot.com/2009/10/perl-programming.html
-
-Perl Tips and Tricks
-http://alumnus.caltech.edu/~svhwan/prodScript/addCurrentToPath.html
 
 Perl 6 and Perl 5 differences
 http://perlcabal.org/syn/Differences.html
@@ -84,12 +90,25 @@ Perl 6 is not production ready yet, you can get involved
 with its development though.
 http://www.perl6.org/
 
+Perl Community
+Perl has an active world wide community with over 300 local groups, mailing
+lists and support/discussion websites.
+http://www.perl.org/community.html
+
 Perl Design Patterns Wiki,
 or Chicken Bones for the Voodoo Programmer Soul
 http://perldesignpatterns.com/?PerlDesignPatterns
 
+Perl Foundation is dedicated to the advancement of the Perl programming
+language through open discussion, collaboration, design, and code.
+http://www.perlfoundation.org/
+
 Perl Modules Using CPAN
 http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
+
+Perl Programming books
+Many solid e-book links here
+http://e-books-raheel.blogspot.com/2009/10/perl-programming.html
 
 Perl Programming
 Greate syntax on many topics available here          <===
@@ -97,6 +116,9 @@ http://www.tutorialspoint.com/perl/perl_arrays.htm
 
 Perl Style
 http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
+
+Perl Tips and Tricks
+http://alumnus.caltech.edu/~svhwan/prodScript/addCurrentToPath.html
 
 Perl tutorial
 by Gabor Szabo
@@ -126,7 +148,6 @@ Home > FAQs > perlfaq3
 Plenty of good perl info.
 http://perldoc.perl.org/perlfaq3.html#How-do-I-find-which-modules-are-installed-on-my-system%3f
 
-
 perlobj
 Perl 5 version 18.2 documentation
 Create link with fine details on classes (packages),
@@ -143,14 +164,8 @@ Practical Perl Programming
 1999-2005 A. D. Marshall
 http://www.cs.cf.ac.uk/Dave/PERL/perl_caller.html
 
-The Perl Community
-Perl has an active world wide community with over 300 local groups, mailing
-lists and support/discussion websites.
-http://www.perl.org/community.html
-
-The Perl Foundation is dedicated to the advancement of the Perl programming
-language through open discussion, collaboration, design, and code.
-http://www.perlfoundation.org/
+Tom's Object-Oriented Perl Tutorial
+http://language.perl.com/all_about/perltoot.html
 
 Using the Perl push() function
 http://perlmeme.org/howtos/perlfunc/push_function.html
