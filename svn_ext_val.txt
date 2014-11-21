@@ -21,6 +21,7 @@
 # pdf/          Portable Document Format files
 # src/          Source code
 # syntax/       Syntax
+# testing/      Testing
 #
 ../../perl/00ARCHIVES/00ARCHIVES   ./00ARCHIVES
 ../../perl/00ERRORS/00ERRORS       ./00ERRORS
@@ -30,3 +31,4 @@
 ../../perl/pdf/pdf                 ./pdf
 ../../perl/src/src                 ./src
 ../../perl/syntax/syntax           ./syntax
+../../perl/testing/testing         ./testing
