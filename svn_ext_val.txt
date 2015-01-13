@@ -14,6 +14,7 @@
 # modules/           Modules
 # obfuscated-code/   Obfuscated code
 # pdf/               Portable Document Format files
+# pics/              Pictures
 # src/               Source code
 # syntax/            Syntax
 # testing/           Testing
@@ -24,6 +25,7 @@
 ../../perl/modules/modules                   ./modules
 ../../perl/obfuscated-code/obfuscated-code   ./obfuscated-code
 ../../perl/pdf/pdf                           ./pdf
+../../perl/pics/pics                         ./pics
 ../../perl/src/src                           ./src
 ../../perl/syntax/syntax                     ./syntax
 ../../perl/testing/testing                   ./testing
