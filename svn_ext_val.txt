@@ -9,7 +9,6 @@
 # List of repo hierarchical directories to checkout under perl/
 #
 # 00ARCHIVES/        Archives
-# 00ERRORS/          Errors
 # docs/              Documentation
 # modules/           Modules
 # obfuscated-code/   Obfuscated code
@@ -20,7 +19,6 @@
 # testing/           Testing
 #
 ../../perl/00ARCHIVES/00ARCHIVES             ./00ARCHIVES
-../../perl/00ERRORS/00ERRORS                 ./00ERRORS
 ../../perl/docs/docs                         ./docs
 ../../perl/modules/modules                   ./modules
 ../../perl/obfuscated-code/obfuscated-code   ./obfuscated-code
