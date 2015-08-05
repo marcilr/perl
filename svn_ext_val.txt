@@ -15,7 +15,7 @@
 # pics/              Pictures
 # src/               Source code
 # syntax/            Syntax
-# testing/           Testing
+# test/              Testing
 #
 ../../perl/00ARCHIVES/00ARCHIVES             ./00ARCHIVES
 ../../perl/docs/docs                         ./docs
@@ -24,4 +24,4 @@
 ../../perl/pics/pics                         ./pics
 ../../perl/src/src                           ./src
 ../../perl/syntax/syntax                     ./syntax
-../../perl/testing/testing                   ./testing
+../../perl/test/test                         ./test
