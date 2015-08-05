@@ -11,7 +11,6 @@
 # 00ARCHIVES/        Archives
 # docs/              Documentation
 # modules/           Modules
-# obfuscated-code/   Obfuscated code
 # pics/              Pictures
 # src/               Source code
 # syntax/            Syntax
@@ -19,9 +18,7 @@
 #
 ../../perl/00ARCHIVES/00ARCHIVES             ./00ARCHIVES
 ../../perl/docs/docs                         ./docs
-../../perl/modules-OLD/modules-OLD           ./modules-OLD
 ../../perl/pics/pics                         ./pics
-../../perl/pod/pod                           ./pod
 ../../perl/src/src                           ./src
 ../../perl/syntax/syntax                     ./syntax
 ../../perl/test/test                         ./test
