@@ -162,6 +162,10 @@ inheritance, accessors, constructors, attributes, and destructors.
 This is it! 
 http://perldoc.perl.org/perlobj.html
 
+perlport
+Perl Programming Documentation
+http://perldoc.perl.org/perlport.html
+
 Picking Up Perl, 2nd Edition 
 B.M. Kuhn and N.A. Smyth
 http://www.linuxtopia.org/Perl_Programming/pickingUpPerl.html
