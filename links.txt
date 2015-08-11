@@ -25,6 +25,9 @@ http://www.linuxlinks.com/article/20130105072159897/16oftheBestFreePerlBooks-Par
 16 of the Best Free Perl Books - Part 4
 http://www.linuxlinks.com/article/20130105072219114/16oftheBestFreePerlBooks-Part4.html
 
+Beginning Perl (free)
+https://www.perl.org/books/beginning-perl/
+
 Beginner's Introduction to Perl
 By Doug Sheppard on October 16, 2000 12:00 AM
 Really need to go through this.
