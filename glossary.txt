@@ -23,3 +23,10 @@ Perl - Perl is sometimes called the "Practical Extraction and Report Language,"
 
   Learning Perl, 6th Edition, What Does "Perl" Stand For?,
   Learning_Perl_Sixth_Edition.pdf, p. 4
+
+TIMTOWTDI - There is more than one way to do it
+  (a motto of the Perl programming language).
+  https://en.wiktionary.org/wiki/TIMTOWTDI  
+           
+YMMV - your mileage may vary.
+  https://en.wiktionary.org/wiki/YMMV
