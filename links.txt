@@ -71,16 +71,10 @@ Padre, the Perl IDE
 Written by Gabor Szabo, the original creator of Padre
 http://padre.perlide.org/
 
-Perl FAQ
-http://www.perl.com/perl/faq/
-
-Perl home page
+Perl
 http://www.perl.com
 
-Perl Insitute
-http://www.perl.org/
-
-Perl 101 
+Perl 101
 Things Every Perl Programmer Should Know
 Great set of pages
 http://perl101.org/index.html
@@ -108,10 +102,18 @@ Perl Design Patterns Wiki,
 or Chicken Bones for the Voodoo Programmer Soul
 http://perldesignpatterns.com/?PerlDesignPatterns
 
+Perl FAQ
+http://www.perl.com/perl/faq/
+
 Perl Foundation is dedicated to the advancement of the Perl programming
 language through open discussion, collaboration, design, and code.
 http://www.perlfoundation.org/
 
+Perl Insitute
+http://www.perl.org/
+
+Perl Maven Tutorial
+http://perlmaven.com/perl-tutorial
 Perl Modules Using CPAN
 http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
 
