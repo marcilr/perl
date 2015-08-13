@@ -179,6 +179,10 @@ Practical Perl Programming
 1999-2005 A. D. Marshall
 http://www.cs.cf.ac.uk/Dave/PERL/perl_caller.html
 
+Seekers of Perl Wisdom
+http://www.perlmonks.org/?node=Seekers%20of%20Perl%20Wisdom#post
+http://www.perlmonks.org/?node=Seekers%20of%20Perl%20Wisdom
+
 Tom's Object-Oriented Perl Tutorial
 http://language.perl.com/all_about/perltoot.html
 
