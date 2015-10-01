@@ -1,0 +1,9 @@
+packages.txt
+Created Wed Aug 19 10:16:36 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Perl packages for Debian jessie 8.1 amd64
+
+
+padre - Perl Application Development and Refactoring Environment
