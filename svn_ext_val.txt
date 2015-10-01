@@ -9,6 +9,7 @@
 # List of repo hierarchical directories to checkout under perl/
 #
 # 00ARCHIVES/        Archives
+# debug/             Debugging
 # docs/              Documentation
 # modules/           Modules
 # pics/              Pictures
@@ -17,6 +18,7 @@
 # test/              Testing
 #
 ../../perl/00ARCHIVES/00ARCHIVES             ./00ARCHIVES
+../../perl/debug/debug                       ./debug
 ../../perl/docs/docs                         ./docs
 ../../perl/modules/modules                   ./modules
 ../../perl/pics/pics                         ./pics
