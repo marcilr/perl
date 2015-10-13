@@ -121,6 +121,10 @@ http://perlmaven.com/perl-tutorial
 Perl Modules Using CPAN
 http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
 
+Perl Monks
+The Monastery Gates
+http://www.perlmonks.org/
+
 PERL -- Practical Extraction and Report Language
 Solid hierarchy of documentation here
 http://www-cgi.cs.cmu.edu/cgi-bin/perl-man
