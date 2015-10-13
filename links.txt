@@ -74,6 +74,10 @@ http://padre.perlide.org/
 Perl
 http://www.perl.com
 
+Perl
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Perl
+
 Perl 101
 Things Every Perl Programmer Should Know
 Great set of pages
