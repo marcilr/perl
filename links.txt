@@ -121,6 +121,10 @@ http://perlmaven.com/perl-tutorial
 Perl Modules Using CPAN
 http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
 
+PERL -- Practical Extraction and Report Language
+Solid hierarchy of documentation here
+http://www-cgi.cs.cmu.edu/cgi-bin/perl-man
+
 Perl Programming books
 Many solid e-book links here
 http://e-books-raheel.blogspot.com/2009/10/perl-programming.html
