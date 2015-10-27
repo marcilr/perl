@@ -143,6 +143,10 @@ http://www.perl.com/doc/FMTEYEWTK/style/slide-index.html
 Perl Tips and Tricks
 http://alumnus.caltech.edu/~svhwan/prodScript/addCurrentToPath.html
 
+Perl Today
+news and views of the Perl programming language
+http://www.perl.com/
+
 Perl tutorial
 by Gabor Szabo
 Should do this looks solid
