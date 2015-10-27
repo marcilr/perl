@@ -109,6 +109,9 @@ http://perldesignpatterns.com/?PerlDesignPatterns
 Perl FAQ
 http://www.perl.com/perl/faq/
 
+Perl Foundation
+http://www.perlfoundation.org/
+
 Perl Foundation is dedicated to the advancement of the Perl programming
 language through open discussion, collaboration, design, and code.
 http://www.perlfoundation.org/
