@@ -11,6 +11,7 @@
 # 00ARCHIVES/        Archives
 # debug/             Debugging
 # docs/              Documentation
+# ide/               Integrated Development Environment
 # modules/           Modules
 # pics/              Pictures
 # src/               Source code
@@ -20,6 +21,7 @@
 ../../perl/00ARCHIVES/00ARCHIVES             ./00ARCHIVES
 ../../perl/debug/debug                       ./debug
 ../../perl/docs/docs                         ./docs
+../../perl/ide/ide                           ./ide
 ../../perl/modules/modules                   ./modules
 ../../perl/pics/pics                         ./pics
 ../../perl/src/src                           ./src
