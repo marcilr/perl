@@ -1,0 +1,13 @@
+install-from-source.txt
+Created Tue Feb 11 11:43:46 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To install a Perl module from source, execute these commands:
+
+    tar xfz Some-Perl-Module-x.xx.tar.gz
+    cd Some-Perl-Module-x.xx
+    perl Makefile.PL
+    make test
+    sudo make install
+
