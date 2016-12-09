@@ -57,6 +57,8 @@ Net::SNMP/
   Object oriented interface to SNMP
   http://search.cpan.org/~dtown/Net-SNMP-v6.0.1/lib/Net/SNMP.pm
 
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under modules/
 
 Switch/
   The Switch.pm module implements a generalized case mechanism that covers the
