@@ -1,0 +1,50 @@
+connect-20150923.txt
+Created Thu Sep 24 08:16:33 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Some code from GCI Network Services, OSS Mark Blum on establishing a network
+connection with multiple connection attempts.  Looked like good code so
+archiving here.
+
+From: Mark Blum 
+Sent: Wednesday, September 23, 2015 4:12 PM
+To: Doug Huvar; #Network Services - OSS - Development; Jim Jarvis
+Subject: RE: SPS1 Interesting Problem
+
+My guess is a network hiccup during connection (somehow some packets were
+dropped during the connection setup; e.g. perhaps the CONNECTED message was
+sent, but never made it to the script so MySQL thinks everything is all good
+(and you simply aren't ready to send a query) while you script stays waiting
+for the CONNECTED message).
+
+One workaround is to build retry connection attempt logic into the script.
+
+A relatively simply setup I like to use is:
+my $i = 0;
+my $dbh;
+until ( $dbh )
+{
+    $dbh = eval { open_db_connection( $opt->{db}, $opt->{retry} ); };
+    if ( $@ )
+    {
+        if( ++$i > $opt->{retry} )
+        {
+            log_die( "Unrecoverable error: retry count $i exceeds the retry \
+            limit of $opt->{retry}." );
+        }
+
+        $logger->error( "Retry count: $i.  Error opening the database \
+        connection: $@" );
+        stall( $opt->{delay} );
+    }
+}
+
+Of course there is a bit of code involved in the custom functions, but I think
+overall the example is fairly self-explanatory.  It's easy to nick-pick on the
+implementation but the basic concept is to try a couple of times before giving
+up on the database connection (and give a little bit of time in between
+attempts in the hope that any hiccups have cleared up).
+
+Thanks,
+      -Mark
