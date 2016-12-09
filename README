@@ -1,0 +1,27 @@
+README
+Created Thu Dec  8 15:20:18 AKST 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+glossary.txt
+  Glossary for perl
+
+links.txt
+  Perl related links
+  
+packages.txt
+  Packages for perl
+
+perl.txt
+  PERL -- Practical Extraction and Report Language
+
+src/
+  Source code
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under perl/
+
+TODO
+  Items for perl
