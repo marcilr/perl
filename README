@@ -17,6 +17,9 @@ docs/
 glossary.txt
   Glossary for perl
 
+ide/
+  Integrated Development Environment (ide) for perl
+
 links.txt
   Perl related links
   
