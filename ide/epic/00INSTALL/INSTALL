@@ -1,0 +1,70 @@
+INSTALL
+Created Tue Oct 27 15:00:38 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Installation of epic - Eclipse Perl Integration
+
+
+Install on GCI Network Services, OSS Debian jessie 8.2 amd64 workstation.
+
+1. Install eclipse package
+# aptitude install eclipse
+
+This installed eclipse v3.8
+
+2. After starting eclipse:
+select Help > Install New Software...
+
+3. At Available Software
+click Add...
+
+4. At Add Repository enter:
+Name:     EPIC
+Location: http://www.epic-ide.org/updates/testing
+click OK
+
+5. At Available Software
+check EPIC Main Components
+click Next
+
+6. At Install Details see:
+Review the items to be installed.
+
+Name     Version     Id
+--------------------------------------------------------
+EPIC     0.6.56      org.epic.feature.main.feature.group
+
+click Next
+size: 3,814 KB
+
+7. At Review Licenses check I accept:
+Licenses must be reviewed and accepted before the software can be installed.
+License text (for EPIC 0.6.56)
+
+x I accept the terms od the licence agreement
+  I do not accept the terms od the licence agreement
+
+click Finish
+
+9. Watch Installing Software
+
+10. At Security Warning
+Warning: You are installing software that contains unsigned content.  The
+authenticity or validity of this software cannot be established.  Do you 
+want to continue with the installation?
+click OK
+
+11. At Software Updates
+You will need to restart Eclipse Platform for the changes to take effect.
+Would you like to restart now?
+click Yes
+
+12. Help > About Eclipse Platform now displayed the EPIC Project
+Perl Editor Plug-in.
+
+13. Install PadWalker - play with other peoples' lexical variables
+used by EPIC.
+
+# cpan PadWalker
+
