@@ -1,0 +1,49 @@
+modules.txt
+Created Mon Apr 28 16:11:05 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Modules
+
+
+Modules are an important and powerful part of the Perl programming language.
+A module is a named container for a group of variables and subroutines which
+can be loaded into your program.  By naming this collection of behaviors and
+storing it outside of the main program, you are able to refer back to them from
+multiple programs and solve problems in manageable chunks.
+
+Modular programs are more easily tested and maintained because you avoid
+repeating code, so you only have to change it in one place.  Perl modules may
+also contain documentation, so they can be used by multiple programmers without
+each programmer needing to read all of the code.  Modules are the foundation of
+the CPAN, which contains thousands of ready-to-use modules, many of which you
+will likely use on a regular basis.
+
+learnperl.scratchcomputing.com/
+
+
+Modules in terra/wti/src/Module/Terra/HelperFunctions.pm
+========================================================
+# Core modules
+use Carp;
+use List::Util qw( first );
+
+
+# CPAN modules
+use IO::CaptureOutput qw( capture_exec );
+use Params::Validate qw( :all );
+use Readonly;
+use Regexp::Common qw( number net );
+use YAML::XS qw( Dump );
+
+# GCI modules
+use Classes::Database::Database;
+use Classes::Loggers::Logger;
+use Modules::Miscellaneous::cron_job_helper_functions;
+
+
+
+Links
+=====
+Learn Perl - How to Use Perl Modules
+http://learnperl.scratchcomputing.com/tutorials/modules/
