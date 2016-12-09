@@ -29,6 +29,9 @@ packages.txt
 perl.txt
   PERL -- Practical Extraction and Report Language
 
+pics/
+  Pictures
+
 src/
   Source code
 
