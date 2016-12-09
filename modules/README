@@ -6,7 +6,7 @@ Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 Filelist
 ========
 00INSTALL/
-  Module installation
+  Install perl module from source
 
 Capture::Tiny/
   Capture STDOUT and STDERR from Perl, XS or external programs
