@@ -1,0 +1,15 @@
+#
+# svn_ext_val.txt
+# Created Wed Aug  5 10:43:34 AKDT 2015
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under docs/
+#
+# books/   Books
+# obfuscated-code/   Obfuscated code
+#
+../../docs/books/books   ./books
+../../docs/obfuscated-code/obfuscated-code   ./obfuscated-code
