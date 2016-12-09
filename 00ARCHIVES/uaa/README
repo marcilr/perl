@@ -1,0 +1,20 @@
+README
+Created Tue Feb 11 11:23:01 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+UAA switch server, perl, and modules.
+
+
+Filelist
+========
+list-modules-switch.html
+  Modules on UAA ITS switch.uaa.alaska.edu server.
+
+ms_sql_server.txt
+  Working on accessing UAA ITS MS SQL Server 2005 via perl from boothite
+  Debian Lenny workstation.
+
+switch.txt
+  UAA ITS switch.uaa.alaska.edu perl details.
+
