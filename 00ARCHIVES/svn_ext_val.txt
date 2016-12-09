@@ -1,0 +1,13 @@
+#
+# svn_ext_val.txt
+# Created Tue Feb 11 11:20:31 AKST 2014
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under 00ARCHIVES/
+#
+# uaa/   UAA switch server, perl, and modules.
+#
+../../00ARCHIVES/uaa/uaa   ./uaa
