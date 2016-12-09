@@ -1,0 +1,14 @@
+README
+Created Wed May  1 16:18:10 AKDT 2013
+Copyright (C) 2013 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+batchadd.pdf
+  Perl script to process queued account creations.
+  Converted to pdf with line numbers added.  Used ~/bin/text2pdf script.
+
+batchadd.pl
+  Perl script to process queued account creations.
+  From Joe Watson via gmail May 1, 2013.
