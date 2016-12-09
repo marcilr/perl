@@ -1,0 +1,19 @@
+links.txt
+Created Tue Oct 27 15:03:36 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+INSTALL related links
+
+
+Links
+=====
+EPIC - Eclipse Perl Integration
+http://e-p-i-c.sourceforge.net
+
+EPIC - How To Install
+http://www.epic-ide.org/download.php
+
+Installing PadWalker on Windows, Linux and Mac OSX
+http://perlmaven.com/padwalker
+
