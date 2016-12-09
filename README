@@ -39,7 +39,7 @@ svn_ext_val.txt
   List of repo hierarchical directories to checkout under perl/
 
 testing/
-  Testing
+  Testing in perl
 
 TODO
   Items for perl
