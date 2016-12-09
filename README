@@ -5,6 +5,9 @@ Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+debug/
+  Debugging in perl
+
 glossary.txt
   Glossary for perl
 
