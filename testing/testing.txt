@@ -1,0 +1,21 @@
+testing.txt
+Created Fri Nov 21 09:52:22 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Testing in perl
+
+
+CPAN modules
+============
+Test::More - yet another framework for writing test scripts
+
+
+Links
+=====
+Test::More - yet another framework for writing test scripts
+http://search.cpan.org/~exodist/Test-Simple-1.001009/lib/Test/More.pm
+
+Testing Modules Available on CPAN - Perl.org
+Many testing modules here
+http://qa.perl.org/test-modules.html
