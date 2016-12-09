@@ -1,0 +1,12 @@
+epic.txt
+Created Tue Oct 27 14:52:13 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+EPIC - Eclipse Perl Integration
+
+Links
+=====
+EPIC - Eclipse Perl Integration
+http://www.epic-ide.org/
+
