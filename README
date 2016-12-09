@@ -8,6 +8,9 @@ Filelist
 debug/
   Debugging in perl
 
+docs/
+  Documentation
+
 glossary.txt
   Glossary for perl
 
