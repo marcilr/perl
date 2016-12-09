@@ -1,0 +1,34 @@
+own.txt
+Created Wed Aug  5 11:03:54 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Perl books I own
+
+
+Higher-Order Perl
+by Mark Jason Dominus
+  This looked like a good free download that I spotted on slash.
+  Snagged a copy.
+  Order Higher-Order Perl online from Powell's Books
+  http://hop.perl.plover.com/book/
+
+Modern Perl
+by chromatic
+  Date: January 2014
+  ISBN-10: 0-9854519-4-7
+  ISBN-13: 978-0-9854519-4-3
+  Take control of your programming with Modern Perl.
+
+Perl 5 by Example
+by David Medinets
+  Has solid eval() info.
+
+Practical Perl Programming
+by A. D. Marshall 1999-2005
+
+Teach Yourself Perl 5 in 21 days
+by David Till
+  pages: 1,090
+  downloaded: November 7, 2014
+
