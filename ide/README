@@ -1,0 +1,16 @@
+README
+Created Wed Oct 28 14:46:01 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+ide.txt
+  Integrated Development Environment (ide) for perl
+
+links.txt
+  IDE related links
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under ide/
+
