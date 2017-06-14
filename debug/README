@@ -1,0 +1,20 @@
+README
+Created Tue Oct 27 13:03:04 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Links
+=====
+debug.txt
+  Perl debugging
+
+links.txt
+  Debug related links
+
+perldebtut.txt
+  perldebtut - Perl debugging tutorial
+  http://perldoc.perl.org/perldebtut.html
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under debug/
+

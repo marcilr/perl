@@ -1,0 +1,15 @@
+README
+Created Tue Feb 11 12:23:23 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Perl documentation
+
+
+Filelist
+========
+books/
+  Perl books
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under docs/

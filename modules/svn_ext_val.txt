@@ -1,0 +1,139 @@
+#
+# svn_ext_val.txt
+# Created Thu May  8 09:53:13 AKDT 2014
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under modules/
+#
+# 00INSTALL/            Installation of modules
+#
+# Capture::Tiny/        CPAN module - Capture STDOUT and STDERR from Perl,
+#                       XS or external programs
+#                       https://metacpan.org/pod/Capture::Tiny
+#
+# cpan/                 Comprehensive Perl Archive Network
+#                       133,422 Open source perl modules ready to
+#                       download and use
+#                       http://www.cpan.org/
+#
+# Data::Dumper/         CPAN module - A rather handy trick you can try is
+#                       using Data::Dumper to inspect your arrays and hashes.
+#                       Then you do not have to write all these for loops
+#                       with nothing but a print inside.
+#                       http://www.perlmonks.org/?node_id=987025
+#                       http://search.cpan.org/~smueller/Data-Dumper-2.154/Dumper.pm
+#
+# DBD::mysql/           DBD::mysql - MySQL driver for the Perl5 Database
+#                       Interface (DBI)
+#                       http://search.cpan.org/~capttofu/DBD-mysql-4.032/lib/DBD/mysql.pm
+#
+# dependencies/         Determine perl module dependencies
+#
+# Digest::SHA1/         CPAN module - Digest::SHA1 - Perl interface to the
+#                       SHA-1 algorithm
+#                       http://search.cpan.org/~gaas/Digest-SHA1-2.13/SHA1.pm
+#
+# Expect/               CPAN module - Expect was originally a little language
+#                       written for Tcl to pretend to be someone.  From the Tcl
+#                       website:  Expect is a tool primarily for automating
+#                       interactive applications such as telnet, ftp, passwd,
+#                       fsck, rlogin, tip, etc.
+#                       Expecting Perl by Mark Schoonover
+#                       mark.schoonover@gmail.com
+#                       http://www.theperlreview.com/SamplePages/ThePerlReview-v4i2.p18.pdf
+#                       http://search.cpan.org/~rgiersig/Expect-1.15/Expect.pod
+#
+# gci/                  GCI Network Services, OSS modules
+#                       Start date - October 7, 2014
+#                       Plenty of perl classes and modules
+#
+# Getopt::Long/         Core modules - Used for accessing cli arguments.
+#                       Starting to think this may be the way to go as cpan
+#                       modules, like Getopt::Lucid, are not so stable.
+#                       http://perldoc.perl.org/Getopt/Long.html
+#
+# Getopt::Lucid/        CPAN module - Clear, readable syntax for command line
+#                       processing.
+#                       http://search.cpan.org/dist/Getopt-Lucid/lib/Getopt/Lucid.pm
+#
+# Log::Log4Perl         Log4j implementation for Perl
+#                       Log::Log4perl provides a powerful logging API for your
+#                       application.
+#                       http://search.cpan.org/~mschilli/Log-Log4perl-1.46/lib/Log/Log4perl.pm
+#
+# Module::ScanDeps/     CPAN module - Recursively scan Perl code for
+#                       dependencies.
+#                       http://search.cpan.org/~rschupp/Module-ScanDeps-1.17/lib/Module/ScanDeps.pm
+#
+# Net::SNMP/            CPAN module - Object oriented interface to SNMP
+#                       http://search.cpan.org/~dtown/Net-SNMP-v6.0.1/lib/Net/SNMP.pm
+#
+# Params::Validate      Validate method/function parameters
+#                       Use regular expressions to validate parameters.
+#                       http://search.cpan.org/~drolsky/Params-Validate-1.21/lib/Params/Validate.pm
+#
+# Pod::Usage/           Inline POD and EOF documentation.
+#                       http://perldoc.perl.org/Pod/Usage.html
+#
+# prereq-grapher/       CPAN Module - Visually graphing module dependencies
+#                       by Neil Bowers on December 2, 2012 11:50 PM
+#                       I've just released the first version of prereq-grapher,
+#                       a script which generates the dependency graph for a
+#                       module or script in any of the formats supported by
+#                       Graph::Easy.  The functionality lives in
+#                       App::PrereqGrapher, which in turn uses
+#                       Perl::PrereqScanner to extract dependencies.
+#                       http://blogs.perl.org/users/neilb/2012/12/prereq-grapher.html
+#                       https://metacpan.org/pod/prereq-grapher
+#
+# Proc::ProcessTable/   CPAN module - Perl extension to access the unix process
+#                       table.
+#                       http://search.cpan.org/~jwb/Proc-ProcessTable-0.51/ProcessTable.pm
+#
+# Regexp::Common/       Provide commonly requested regular expressions
+#                       http://search.cpan.org/~abigail/Regexp-Common-2013031301/lib/Regexp/Common.pm
+#
+# Switch/               Core modules - The Switch.pm module implements a
+#                       generalized case mechanism that covers the numerous
+#                       possible combinations of switch and case values
+#                       described above.
+#                       
+#                       http://search.cpan.org/~chorny/Switch-2.17/Switch.pm
+#                       http://perldoc.perl.org/5.8.8/Switch.html
+#
+# syntax/               Syntax
+#
+# Text::CSV/            CPAN module - comma-separated values manipulator
+#                       (using XS or PurePerl)
+#                       http://search.cpan.org/~makamaka/Text-CSV-1.32/lib/Text/CSV.pm
+#
+# YAML::XS              Perl YAML Serialization using XS and libyaml
+#                       Has LoadfFile() for loading YAML files.
+#                       http://search.cpan.org/dist/YAML-LibYAML/lib/YAML/XS.pod
+#
+../../modules/00INSTALL/00INSTALL                     ./00INSTALL
+../../modules/Capture::Tiny/Capture::Tiny             ./Capture::Tiny
+../../modules/cpan/cpan                               ./cpan
+../../modules/Data::Dumper/Data::Dumper               ./Data::Dumper
+../../modules/DBD::mysql/DBD::mysql                   ./DBD::mysql
+../../modules/dependencies/dependencies               ./dependencies
+../../modules/Digest::SHA1/Digest::SHA1               ./Digest::SHA1
+../../modules/Expect/Expect                           ./Expect
+../../modules/gci/gci                                 ./gci
+../../modules/Getopt::Long/Getopt::Long               ./Getopt::Long
+../../modules/Getopt::Lucid/Getopt::Lucid             ./Getopt::Lucid
+../../modules/Log::Log4perl/Log::Log4perl             ./Log::Log4perl
+../../modules/Module::ScanDeps/Module::ScanDeps       ./Module::ScanDeps
+../../modules/Net::SNMP/Net::SNMP                     ./Net::SNMP
+../../modules/Params::Validate/Params::Validate       ./Params::Validate
+../../modules/Pod::Usage/Pod::Usage                   ./Pod::Usage
+../../modules/prereq-grapher/prereq-grapher           ./prereq-grapher
+../../modules/Proc::ProcessTable/Proc::ProcessTable   ./Proc::ProcessTable
+../../modules/Regexp::Common/Regexp::Common           ./Regexp::Common
+../../modules/Switch/Switch                           ./Switch
+../../modules/syntax/syntax                           ./syntax
+../../modules/Text::CSV/Text::CSV                     ./Text::CSV
+../../modules/YAML::XS/YAML::XS                       ./YAML::XS

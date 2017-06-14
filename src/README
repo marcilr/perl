@@ -1,0 +1,21 @@
+README
+Created Tue Feb 11 12:05:02 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+md5sum.pl
+  Perl code to get md5sum of string.
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under src/
+
+wunderg.pl
+  Script to query weather undergound:
+  ./wunderg.pl anchorage,alaska
+  The Dynamic Duo --or-- Holy Getopt::Long, Pod::UsageMan!
+  by ybiC on May 26, 2000 at 07:58 UTC
+  Reports celcius not fahrenheit.
+  http://www.perlmonks.org/?node_id=14909
+

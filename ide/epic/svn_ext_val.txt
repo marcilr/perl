@@ -1,0 +1,15 @@
+#
+# svn_ext_val.txt
+# Created Tue Oct 27 14:35:06 AKDT 2015
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under epic/
+#
+# 00INSTALL/   Installation
+# docs/        Documentation
+#
+../../epic/00INSTALL/00INSTALL   ./00INSTALL
+../../epic/docs/docs             ./docs

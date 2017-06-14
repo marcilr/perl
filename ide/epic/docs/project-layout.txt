@@ -1,0 +1,42 @@
+project-layout.txt
+Created Wed Oct 28 15:09:10 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Project Layout
+
+
+In order to avoid problems with syntax validation (such as packages reported
+missing) and the debugger (such as skipped breakpoints), it is best to
+organize your project according to the conventions of the core Perl distribution:
+
+o Keep your own modules in dedicated subtrees of your project. For example,
+  create a subdirectory lib as the root of the subtree containing all *.pm
+  files.  Note that you can have more than one such subtree.  For example, you
+  could also create test/lib to store modules that are only imported by test
+  scripts.
+
+o Add the root directories of your subtrees to the @INC path (see [?title]).
+  For example, add the entries lib and test/lib there.
+
+o Map package names to paths in the subtree (and vice versa).  For example,
+  store code for the package Foo::Bar in file lib/Foo/Bar.pm and ensure that
+  lib/Foo/Baz.pm contains only package Foo::Baz.
+
+o Store your Perl scripts anywhere you like in the project.  For example, in
+  subdirectory bin or cgi-bin.EPIC - User's Guide
+
+o To import from a package, use it, rather than require it. For example,
+  use Foo::Bar; rather than require '../lib/Foo/Bar.pm';
+
+EPIC - User's Guide, EPIC_Users_Guide.pdf, p. 10-11.
+
+
+Filelist
+========
+EPIC_Users_Guide.pdf
+  EPIC_User\'s_Guide.pdf
+  ===> EPIC_Users_Guide.pdf
+  Downloaded October 27, 2015
+  https://docs.google.com/viewer?url=http%3A%2F%2Fwww.epic-ide.org%2Fdownloads%2FEPIC_User%27s_Guide.pdf
+

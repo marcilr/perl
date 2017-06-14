@@ -1,0 +1,13 @@
+#
+# svn_ext_val.txt
+# Created Wed Aug  5 10:43:34 AKDT 2015
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under books/
+#
+# pics/   Pictures
+#
+../../books/pics/pics   ./pics

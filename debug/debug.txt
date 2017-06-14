@@ -1,0 +1,61 @@
+debug.txt
+Created Wed Sep  9 11:00:14 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Debug
+
+
+A (very) lightweight introduction in the use of the perl debugger, and a 
+pointer to existing, deeper sources of information on the subject of debugging
+perl programs.
+
+There's an extraordinary number of people out there who don't appear to know
+anything about using the perl debugger, though they use the language every day.
+This is for them.
+
+perldoc.perl.org/perldebtut.html
+
+
+Command        Description
+-----------------------------------------------
+!<number>      Repeat previous command.
+               e.g. !4
+
+H              View history
+M              Show which modules are loaded.
+m              Show the methods.
+p <variable>   Print variable $foo or whatever.
+S              Shows all subroutines (by pattern) 
+s              Execute current statement
+q              Quit
+V|X            show variables in the program by package
+               scope and can be constrained by pattern.
+v              View code "==>" is where you are now.
+
+x|m expr       Evals expr in list context, dumps the result or lists methods
+               Can be used to view hash reference.
+               e.g. x \%hash
+
+
+Example
+=======
+Run with debug and quit:
+
+perl/modules/Log::Log4perl/src/gci$ perl -d logtest.pl
+
+Loading DB routines from perl5db.pl version 1.44
+Editor support available.
+
+Enter h or 'h h' for help, or 'man perldebug' for more help.
+
+main::(logtest.pl:49):  our  $logger;
+  DB<1> q
+perl/modules/Log::Log4perl/src/gci$
+
+
+Links
+=====
+perldebug
+Perl Programming Documentation
+http://perldoc.perl.org/perldebug.html

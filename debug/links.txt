@@ -1,0 +1,61 @@
+links.txt
+Created Wed Sep  9 11:01:47 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Debug related links
+
+
+Links
+=====
+A GUI for the Perl Debugger
+http://curtmckelvey.tripod.com/perldbgui/
+
+Devel::ptkdb
+Perl debugger using a Tk GUI
+http://search.cpan.org/~aepage/Devel-ptkdb-1.1087/
+
+EPIC (Eclipse Perl Integration) is an open source Perl IDE (including
+editor and debugger) based on the Eclipse platform, compatible with
+Windows, Linux and Mac OS X.  Whether you are into CGI scripting or
+full-fledged Perl projects with hundreds of modules, EPIC is the most
+feature-rich and extensible free Perl IDE available today, thanks to
+a seamless integration with all the major features and GUI conventions
+of Eclipse.
+http://www.epic-ide.org/
+
+perldebtut - Perl debugging tutorial
+Perl 5 version 22.0 documentation
+Has perldebug commands 
+http://perldoc.perl.org/perldebtut.html
+
+perldebug
+Perl Programming Documentation
+Plenty of syntax/commands here
+http://perldoc.perl.org/perldebug.html
+
+
+Favourite GUI Debuggers
+by Sandy
+o Generally I use Eclipse with EPIC Perl editor plug-in,
+largely because I am not a GUI dependant user and it suits my style of working.
+o Komodo
+http://www.perlmonks.org/?node_id=314319
+
+Komodo 9 Released: Better, Faster, Stronger!
+Cross-Platform IDE for all your major languages, 
+including Python, PHP, Go, Perl, Tcl, Ruby, NodeJS,
+HTML, CSS, JavaScript and more
+"An awesome slick IDE for PHP and other for Windows,
+OS X and Linux without Java requirement"
+--neofelis_de via Twitter
+price: $382 with Upgrades & Support
+price: $295 without Upgrades & Support
+price: $595 ActivePerl Pro Studio
+  (Support and Upgrades are included for Year One!)
+http://komodoide.com/
+
+Using the Perl Debugger
+By brian d foy, August 09, 2001
+http://www.drdobbs.com/using-the-perl-debugger/184404744
+

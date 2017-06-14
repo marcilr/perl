@@ -1,0 +1,283 @@
+books.txt
+Created Thu May 15 11:50:40 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Perl books
+
+
+Index
+=====
+Advanced Perl Programming, S.Srinivasan, O'Reilly
+
+Beginner Perl Maven e-book
+  http://perlmaven.com/beginner-perl-maven-e-book
+
+CGI Developer's Guide, E.E. Kim, Sams.Net
+
+CGI Programming on the World Wide Web, S. Gundavaram, O'Reilly
+
+Effective Perl Programming: Writing Better Programs with Perl
+  by Joseph N. Hall & Randal L. Schwartz
+
+Learning Perl, R.L. Schwartz, O'Reilly
+
+Modern Perl: The Book by chromatic
+  pdf/compsci/lang/perl/modern-perl/modern_perl_a4.pdf
+
+Network Programming with Perl
+  by Lincoln D. Stein, O'Reilly
+
+Perl 5 Desktop Reference, J. Vromans, O'Reilly and Associates Inc.
+
+Perl Cookbook, Tom Chritianson and Nathan Torkington, O'Reilly
+
+Perl 5 by Example
+  by David Medinets
+  http://affy.blogspot.com/p5be/index.htm
+  http://read.pudn.com/downloads99/ebook/404334/Perl%205%20By%20Example.Pdf
+  pdf/compsci/lang/perl/perl-5-by-example/perl-5-by-example.pdf
+
+Practical Perl Programming, p. 227-229
+  by A. D. Marshall 1999-2005
+  pdf/compsci/lang/perl/practical-perl-programming/PracticalPerl.pdf
+
+Programming Perl, 4th Edition (), August 13, 2015            <===
+  Camel book - L. Wall, T. Christiansen and R.L. Schwartz,
+  Final Release Date: February 2012
+  Pages:   1184
+  price:   $50.99
+  formats: DAISY, ePub, Mobi, PDF
+  http://shop.oreilly.com/product/9780596004927.do
+
+  What's the story behind the camel?
+  by borgia on May 11, 2003 at 23:55 UTC
+
+  Re: Re^2: What's the story behind the camel? (no colophon either)
+  by mpolo on May 12, 2003 at 10:05 UTC
+  
+  Camel III does indeed have it, but it doesn't say why the camel was chosen:
+  "The animal on the cover of Programming Perl, Third Edition is a dromedary
+  (one-hump camel).  Camels are large ruminant mammals, weighing between 1,000
+  and 1,600 pounds and standing six to seven feet tall at the shoulders.  They
+  are well known for their use as draft and saddle animals in the desert
+  regions, especially of Africa and Asia.  Camels can go for days without
+  water.  If food is scarce, they will eat anything, even their owner's tent.
+  Camels live up to 50 years."
+
+  The explanation in the text (p. 4) is the following (look up "camel" in the
+  index... Now I have to find out about "bloody camels" and "pink vs. blue
+  camels"!)
+
+  "We often joke that a camel is a horse designed by a committee, but if you
+  think about it, the camel is self-sufficient.  (On the other hand, the camel
+  has not evolved to smell good.  Neither has Perl.)  This is one of the many
+  strange reasons we picked the camel to be Perl's mascot, but it doesn't have
+  much to do with linguistics."
+
+  Teach Yourself CGI Programming with Perl 5 in a Week, E. Herrmann, Sams.Net
+
+Teach Yourself Perl in 21 Days by  David Till
+  http://ft-sipil.unila.ac.id/dbooks/(ebook%20pdf)%20Teach%20Yourself%20Perl%20in%2021%20Days.pdf
+  pdf/compsci/lang/perl/teach-yourself-perl-5-in-21-days/teach-yourself-perl-in-21-days.pdf
+
+
+The books
+=========
+Advanced Perl Programming, S.Srinivasan, O'Reilly and Associates Inc.
+  -- A very good book to take your further into the realms of Perl
+  Practical Perl Programming, p. 31
+
+Beginner Perl Maven e-book
+  The Beginner Perl Maven e-book will make it easier for you to learn Perl.
+  It provides the first steps on your way to become a "Perl Maven".
+
+  Besides teaching the basics of the language it also helps learning best
+  practices in creating working code.
+
+  The e-book contains more than 257 pages, 50 exercises with solution and the
+  full "Beginner Perl Maven" training material.  It is currently available in
+  PDF format.
+
+  Reading the book and doing all the exercises will allow you to start writing
+  useful Perl scripts and/or to maintaining existing applications.
+
+  price: $32
+
+  http://perlmaven.com/beginner-perl-maven-e-book
+
+
+CGI Developer's Guide, E.E. Kim, Sams.Net
+  Practical Perl Programming, p. 31
+
+CGI Programming on the World Wide Web, S. Gundavaram,
+  O'Reilly and Associates Inc.
+  Practical Perl Programming, p. 31
+
+
+Effective Perl Programming: Writing Better Programs with Perl
+  by Joseph N. Hall & Randal L. Schwartz
+  Publisher: Addison Wesley, 1997
+  ISBN: 0-20141-975-0
+
+  Effective Perl Programming (bookreview)
+  by arturo 
+  Sep 15, 2000 at 19:22 UTC
+  http://www.perlmonks.org/?node_id=32681
+
+  Effective PERL Programming (bookreview)
+  by jbardhan
+  Jul 10, 2000 at 20:45 UTC
+  http://www.perlmonks.org/?node_id=22047
+
+
+Learning Perl, R.L. Schwartz, O'Reilly and Associates Inc.
+  -- The "Llama Book". 1st edition
+  introduces programming concepts with Perl 4.
+  Practical Perl Programming, p. 31
+
+Modern Perl: The Book
+  by chromatic
+  A fine read.
+  Date:    January 2014
+  ISBN-10: 0-9854519-4-7
+  ISBN-13: 978-0-9854519-4-3
+  price:   $37 USD/23.50 GBP
+  pdf/compsci/lang/perl/modern-perl/
+  http://onyxneon.com/books/modern_perl/modern_perl_letter.pdf
+  http://modernperlbooks.com/books/modern_perl_2014/
+
+Network Programming with Perl
+  by Lincoln D. Stein
+  Publication Date: January 6, 2001
+  ISBN-10: 0201615711
+  ISBN-13: 978-0201615715
+  Edition: 1
+
+  Any developer who's comfortable with Perl can build remarkably powerful TCP/IP
+  network applications -- no C required!  In Network Programming with Perl,
+  Lincoln Stein shows how, step-by-step, with extensive code examples.  Modeled
+  on W. Richard Stevens' legendary Unix network programming book, this book
+  opens up network programming to a new generation of programmer: Web developers
+  ready to build serious network applications and solve complex network problems.
+  Stein begins with an overview of Perl's increasingly powerful networking
+  facilities; then introduces Berkeley Sockets, and the UDP and TCP protocols at
+  the heart of network programming.  He presents Perl's IO:: socket API, which
+  simplifies the creation and use of sockets; demonstrates how to create forking
+  servers; and introduces practical techniques for creating multithreaded and
+  multiplexed applications.  Modeled upon the style of Stevens, and using
+  extensive sample code, Stein demonstrates all of the key features.  Network
+  Programming with Perl also includes chapter-length explanations of creating
+  Internet modules for FTP and Telnet; Mail and News; and Web services.
+
+  amazon.com/
+
+  "This is a superb book. Another splendid book from Lincoln, whose mastery and
+  lucid exposition make this a must-have for the serious Perl programmer.""
+
+  -- Jon Orwant, Chief Technology Officer, O'Reilly & Associates
+  Founder of "The Perl Journal, " author of "Mastering Algorithms with Perl," 
+
+  (O'Reilly & Associates)
+  http://books.google.com/books/about/Network_Programming_with_Perl.html?id=lzSa6LVV4tcC
+
+  Hit searching for log_die() function during GCI, Network Services, OSS
+  WTIO box project, May 15, 2014, p. 420
+  Looks like a find book
+  $48.49 prime (amazon.com - May 15, 2014)
+  http://books.google.com/books?id=lzSa6LVV4tcC&pg=PA420&lpg=PA420&dq=perl+log_die(&source=bl&ots=yxDNkxTGY3&sig=g_1OXRlY1dheFknvNJKfXiGUqmE&hl=en&sa=X&ei=9Bh1U87ZMNXYoASZ7YLgDg&ved=0CGQQ6AEwBg#v=onepage&q=perl%20log_die(&f=false
+  http://www.amazon.com/Network-Programming-Perl-Lincoln-Stein/dp/0201615711
+
+perl-5-by-example.pdf (5MB)
+  Perl 5 By Example.Pdf
+  by David Medinets
+  pages: 665
+  Has solid eval() info.
+  http://affy.blogspot.com/p5be/index.htm
+  http://read.pudn.com/downloads99/ebook/404334/Perl%205%20By%20Example.Pdf
+  pdf/compsci/lang/perl/perl-5-by-example/perl-5-by-example.pdf
+
+Perl 5 Desktop Reference, J. Vromans, O'Reilly and Associates Inc.
+  Practical Perl Programming, p. 31
+
+Perl Cookbook, Tom Chritianson and Nathan Torkington,
+  O'Reilly and Associates Inc.
+  -- Excellent collection of Perl recipes to suite your every need.
+  Lots of good solution and examples. I have borrowed a few examples for this
+  course.
+  Practical Perl Programming, p. 31
+
+Perl for System Administration
+  Managing multi-platform environments with Perl
+  by David N. Blank-Edelman
+  O'Reilly, July 2000
+  Pages: 446
+  4.3. Unix Process Control
+  http://docstore.mik.ua/orelly/perl/sysadmin/ch04_03.htm
+  https://www.safaribooksonline.com/library/view/perl-for-system/1565926099/?utm_medium=referral&utm_campaign=publisher&utm_source=oreilly&utm_content=book+page
+  http://shop.oreilly.com/product/9781565926097.do
+
+Practical Perl Programming, p. 227-229
+  by A. D. Marshall 1999-2005
+  pdf/compsci/lang/perl/practical-perl-programming/PracticalPerl.pdf
+  https://www.cs.cf.ac.uk/Dave/PERL/
+
+Programming Perl, L. Wall, T. Christiansen and R.L. Schwartz,
+  O'Reilly and Associates Inc.
+  -- The "Camel Book". A thorough Perl 5 reference with plenty of examples.
+  Practical Perl Programming, p. 31
+
+Teach Yourself Perl in 21 Days
+  by David Till
+  downloaded: November 7, 2014
+  pages: 1,090
+  http://ft-sipil.unila.ac.id/dbooks/(ebook%20pdf)%20Teach%20Yourself%20Perl%20in%2021%20Days.pdf
+  pdf/compsci/lang/perl/teach-yourself-perl-5-in-21-days/teach-yourself-perl-in-21-days.pdf
+
+Teach Yourself CGI Programming with Perl 5 in a Week, E. Herrmann, Sams.Net
+  -- excellent guide to CGI aspects of Perl
+  Practical Perl Programming, p. 31
+
+
+
+Links
+=====
+Modern Perl: The Book
+http://modernperlbooks.com/books/modern_perl_2014/
+http://onyxneon.com/books/modern_perl/index.html
+
+Object Oriented Perl: A Comprehensive Guide to Concepts and Programming Techniques
+publisher: Manning
+Paperback: 490 pages
+Publisher: Manning Publications (January 1, 2000)
+ISBN-10: 1884777791
+ISBN-13: 978-1884777790
+price: $30.97
+http://www.amazon.com/exec/obidos/ASIN/1884777791/qid=994873991/sr=2-3/102-0799781-9494566
+
+
+O'Reilly's CD bookshelf
+Great display of O'Reilly books and associated icons.
+Sweet!
+http://docstore.mik.ua/orelly/bookshelf.html
+
+Programming Perl
+O'Reilly
+Fine Perl Books icons reference (nice icons)
+http://docstore.mik.ua/orelly/perl4/prog/ch12_04.htm
+
+The PERL CD Bookshelf Version 4.0
+O'Reilly
+Perl in a Nutshell, 2nd Edition
+  by By Nathan Patwardhan, Ellen Siever and Stephen Spainhour
+Perl Cookbook, 2nd Edition
+  by Tom Christiansen and Nathan Torkington
+Learning Perl, 3rd Edition
+  by Randal L. Schwartz and Tom Phoenix
+Programming Perl, 3rd Edition
+  by Larry Wall, Tom Christiansen, and Jon Orwant
+Learning Perl Objects, References and Modules
+  by Randal L. Schwartz, with Tom Phoenix
+Mastering Regular Expressions, 2nd Edition
+  by Jeffrey Friedl - in Adobe PDF format
+http://docstore.mik.ua/orelly/perl4/index.htm

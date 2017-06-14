@@ -1,0 +1,101 @@
+ms_sql_server.txt
+Created Mon Mar  1 13:47:41 AKST 2010
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Working on accessing UAA ITS MS SQL Server 2005 via perl from boothite
+Debian Lenny workstation.
+
+
+Packages
+========
+unixodbc-bin - Graphical tools for ODBC management and browsing
+unixodbc-dev - ODBC libraries for UNIX (development files)
+unixodbc - ODBC tools libraries
+
+
+
+Mon Mar  1 13:49:13 AKST 2010
+=============================
+Would need to install unixodbc to get odbc up and operational.
+ODBC sucks....
+
+
+boothite:~# perl -MCPAN -e shell
+cpan[1]> install DBI
+CPAN: Storable loaded ok (v2.18)
+CPAN: LWP::UserAgent loaded ok (v5.813)
+CPAN: Time::HiRes loaded ok (v1.9711)
+
+I would like to connect to one of the following sites to get
+'authors/01mailrc.txt.gz':
+
+ http://www.perl.org/CPAN/
+ ftp://ftp.perl.org/pub/CPAN/
+
+Is it OK to try to connect to the Internet? [yes] <== enter
+DBI-1.609.tar.gz got installed
+
+cpan[1]> install YAML
+YAML-0.71.tar.gz got installed.
+
+cpan[1]> install DBD::ODBC 
+...
+LANG environment variable is set to "en_US.UTF-8"
+Looking for odbc_config on PATH
+  odbc_config not found
+Looking for iodbc-config on PATH
+  iodbc_config not found
+odbc_config not found - ok, there are other things I can do
+Still trying to guess ODBCHOME - looking for headers now
+  trying /usr/include
+  trying usr/local/include
+  trying /usr/pkg/include
+  trying /usr/local/easysoft/unixODBC/include
+
+The DBD::ODBC module needs to link with an ODBC 'Driver Manager'.
+(The Driver Manager, in turn, needs one or more database specific ODBC
+drivers. The DBD::ODBC module does _not_ include any ODBC drivers!)
+
+You need to indicate where your ODBC Driver Manager is installed.
+You can do this by:
+
+o setting the ODBCHOME environment variable
+o running 'perl Makefile.PL -o odbcdir'
+o adding path to odbc_config/iodbc_config to PATH
+
+If you do not have an ODBC Driver Manager you should try to get hold of
+the unixODBC packages for your system or build it from source (see
+http://www.unixodbc.org).
+  MJEVANS/DBD-ODBC-1.23.tar.gz
+  /usr/bin/perl Makefile.PL INSTALLDIRS=site -- NO Makefile created
+Running make test
+  Make had some problems, won't test
+Running make install
+  Make had some problems, won't install
+Failed during this command:
+ MJEVANS/DBD-ODBC-1.23.tar.gz                 : writemakefile NO -- No Makefile created
+
+cpan[6]>
+
+
+
+Links
+=====
+Enabling ODBC support in Perl with Perl DBI and DBD::ODBC
+http://www.easysoft.com/developer/languages/perl/dbi_dbd_odbc.html
+
+Linux/UNIX ODBC
+This document contains all the information you need to get started accessing 
+ODBC data sources on Linux and UNIX platforms. The document provides background 
+information about ODBC and its implementation on Linux and UNIX, describes the 
+unixODBC ODBC Driver Manager in detail and lists some commonly used Linux/UNIX
+applications and interfaces that support ODBC.
+http://www.easysoft.com/developer/interfaces/odbc/linux.html
+
+ODBC Driver Managers
+(unixODBC and iODBC)
+http://www.easysoft.com/developer/interfaces/odbc/linux.html#odbc_driver_managers
+
+The unixODBC ODBC Driver Manager
+http://www.easysoft.com/developer/interfaces/odbc/linux.html#odbc_driver_managers

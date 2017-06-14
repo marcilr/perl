@@ -1,0 +1,12 @@
+README
+Created Thu Oct  1 15:59:11 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+connect-20150923.txt
+  Some code from GCI Network Services, OSS Mark Blum on establishing a network
+  connection with multiple connection attempts.  Looked like good code so
+  archiving here.
+

@@ -1,0 +1,14 @@
+#
+# svn_ext_val.txt
+# Created Tue Oct 27 14:35:06 AKDT 2015
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under ide/
+#
+# epic/   Eclipse Perl Integration
+#         http://www.epic-ide.org/
+#
+../../ide/epic/epic   ./epic

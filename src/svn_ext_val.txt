@@ -1,0 +1,15 @@
+#
+# svn_ext_val.txt
+# Created Thu Oct  1 15:56:50 AKDT 2015
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under src/
+#
+# database/   Database code
+# base/       Base perl program
+#
+../../src/database/database   ./database
+../../src/base/base           ./base

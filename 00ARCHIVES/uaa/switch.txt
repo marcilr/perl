@@ -1,0 +1,59 @@
+switch.txt
+Created Mon Sep 29 16:32:23 AKDT 2008
+by Raymond E. Marcil
+
+
+
+
+root@switch:/# find . -name WDDX
+./opt/local/src/WDDX-1.02/WDDX
+./opt/local/src/WDDX-1.02/blib/lib/auto/WDDX
+./opt/local/src/WDDX-1.02/blib/lib/WDDX
+./opt/local/src/WDDX-1.02/blib/arch/auto/WDDX
+./opt/local/stronghold/perl/lib/site/WDDX
+./opt/local/stronghold/perl/lib/site/auto/WDDX
+./opt/local/webevents/install/WDDX-1.01/WDDX
+./opt/local/webevents/install/WDDX-1.01/blib/lib/auto/WDDX
+./opt/local/webevents/install/WDDX-1.01/blib/lib/WDDX
+./opt/local/webevents/install/WDDX-1.01/blib/arch/auto/WDDX
+./opt/local/cpan/build/WDDX-1.02/WDDX
+./opt/local/cpan/build/WDDX-1.02/blib/lib/auto/WDDX
+./opt/local/cpan/build/WDDX-1.02/blib/lib/WDDX
+./opt/local/cpan/build/WDDX-1.02/blib/arch/auto/WDDX
+./opt/csw/share/perl/site_perl/WDDX
+./opt/csw/lib/perl/site_perl/auto/WDDX
+root@switch:/#
+
+
+Still not working after following install.  Version incompatibiltiy?
+
+root@switch:/usr/local/src/WDDX-1.02# make
+cp WDDX/Struct.pm blib/lib/WDDX/Struct.pm
+cp WDDX/Datetime.pm blib/lib/WDDX/Datetime.pm
+cp WDDX.pm blib/lib/WDDX.pm
+cp WDDX/Parser.pm blib/lib/WDDX/Parser.pm
+cp WDDX/Array.pm blib/lib/WDDX/Array.pm
+cp WDDX/String.pm blib/lib/WDDX/String.pm
+cp WDDX/Binary.pm blib/lib/WDDX/Binary.pm
+cp WDDX/Recordset.pm blib/lib/WDDX/Recordset.pm
+cp WDDX/Null.pm blib/lib/WDDX/Null.pm
+cp WDDX/Boolean.pm blib/lib/WDDX/Boolean.pm
+cp WDDX/Number.pm blib/lib/WDDX/Number.pm
+Manifying blib/man3/WDDX.3perl
+root@switch:/usr/local/src/WDDX-1.02# make install
+Installing /opt/csw/share/perl/site_perl/WDDX.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Struct.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Datetime.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Parser.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Array.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/String.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Binary.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Recordset.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Null.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Boolean.pm
+Installing /opt/csw/share/perl/site_perl/WDDX/Number.pm
+Installing /opt/csw/share/man/man3/WDDX.3perl
+Writing /opt/csw/lib/perl/site_perl/auto/WDDX/.packlist
+Appending installation info to /opt/csw/lib/perl/5.8.8/perllocal.pod
+root@switch:/usr/local/src/WDDX-1.02#
+

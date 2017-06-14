@@ -1,0 +1,28 @@
+README
+Created Tue Oct 27 14:53:21 AKDT 2015
+Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+EPIC - Eclipse Perl Integration
+
+
+Perspective
+===========
+Set perl perspective:
+  Window > Open Perspective > Other... > Perl
+    or
+  click Open Perspective, upper right, only visable whilst in a perspective.
+
+
+Filelist
+========
+epic.txt 
+  EPIC - Eclipse Perl Integration
+  http://www.epic-ide.org/
+
+links.txt
+  EPIC - Eclipse Perl Integration related links
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under epic/
+

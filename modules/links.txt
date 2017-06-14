@@ -1,0 +1,58 @@
+links.txt
+Created Tue Feb 11 11:28:10 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Perl module related links
+
+
+Links
+=====
+A Guide to Installing Modules
+http://www.perlmonks.org/index.pl?node_id=128077
+
+CPAN - Comprehensive Perl Archive Network
+LWPS, POES, AND DBIS -- OH MY!
+http://www.cpan.org/
+
+CPAN - Frequently Asked Questions
+http://www.cpan.org/misc/cpan-faq.html#What_is_CPAN
+
+CPAN - Query, download and build perl modules from CPAN sites
+http://kobesearch.cpan.org/htdocs/CPAN/CPAN.html
+
+How can I install a specific version of a Perl module?
+http://stackoverflow.com/questions/260593/how-can-i-install-a-specific-version-of-a-perl-module
+
+How to install CPAN modules
+http://www.cpan.org/modules/INSTALL.html
+
+On The Naming of Modules
+First and foremost: you are naming your module so that people can find your
+module.  It's as easy--and as difficult--as that.
+https://pause.perl.org/pause/query?ACTION=pause_namingmodules
+
+Perl binaries/packages
+http://www.cpan.org/ports/index.html
+
+Perl module
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Perl_module
+
+Perl Modules Using CPAN
+http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
+
+Perl Static Source Code Analysis
+http://www.teragridforum.org/mediawiki/index.php?title=Perl_Static_Source_Code_Analysis
+
+perlmod - Perl modules (packages and symbol tables)
+http://perldoc.perl.org/perlmod.html
+
+printing @INC contents and Command line interpretation
+To display the perl library path:
+  perl -e "print \"@INC\""
+http://www.perlmonks.org/?node_id=631021
+
+Simple Module Tutorial
+by tachyon on Aug 06, 2001 at 01:30 UTC
+http://www.perlmonks.org/?node_id=102347

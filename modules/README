@@ -1,0 +1,77 @@
+README
+Created Mon Apr 28 15:51:17 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+00INSTALL/
+  Install perl module from source
+
+Capture::Tiny/
+  Capture STDOUT and STDERR from Perl, XS or external programs
+  https://metacpan.org/pod/Capture::Tiny
+
+cpan/
+   Comprehensive Perl Archive Network 133,422 Open source perl modules
+   ready to download and use
+
+Data::Dumper.txt
+  A rather handy trick you can try is using Data::Dumper to inspect your arrays
+  and hashes.  Then you do not have to write all these for loops with nothing
+  but a print inside.
+  http://www.perlmonks.org/?node_id=31714
+
+docs/
+  Documentation
+
+Expect/
+  Expect was originally a little language written for Tcl to pretend to be
+  someone.  From the Tcl website:  Expect is a tool primarily for automating
+  interactive applications such as telnet, ftp, passwd, fsck, rlogin, tip, etc.
+  Expecting Perl by Mark Schoonover
+  mark.schoonover@gmail.com
+  http://www.theperlreview.com/SamplePages/ThePerlReview-v4i2.p18.pdf
+  http://search.cpan.org/~rgiersig/Expect-1.15/Expect.pod
+
+gci/
+  GCI Network Services, OSS modules
+
+Getopt::Lucid/
+  Fine getopt cli parsing in perl.   Used in GCI Network Services, OSS
+  WTI box project - May 15, 2014.
+  https://github.com/dagolden/getopt-lucid
+  http://search.cpan.org/dist/Getopt-Lucid
+
+links.txt
+  Perl module related links.
+
+Module::ScanDeps/
+  Recursively scan Perl code for dependencies
+  http://search.cpan.org/~rschupp/Module-ScanDeps-1.17/lib/Module/ScanDeps.pm
+
+modules.txt
+  Various cpan modules.
+
+Net::SNMP/
+  Object oriented interface to SNMP
+  http://search.cpan.org/~dtown/Net-SNMP-v6.0.1/lib/Net/SNMP.pm
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under modules/
+
+Switch/
+  The Switch.pm module implements a generalized case mechanism that covers the
+  numerous possible combinations of switch and case values described above.
+  http://search.cpan.org/~chorny/Switch-2.17/Switch.pm
+
+switch.txt
+  Switch - A switch statement for Perl
+  http://perldoc.perl.org/5.8.8/Switch.html
+
+syntax/
+  Perl module related syntax
+
+Text:CSV/
+  Module for easy Text::CSV parsing.
+  http://search.cpan.org/perldoc/Text::CSV
