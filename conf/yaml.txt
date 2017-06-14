@@ -1,0 +1,14 @@
+yaml.txt
+Created Wed Jun 14 08:36:24 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+YAML style file for configuration
+
+
+Recommended by GCI IT NIT David Dragon via email Tue 6/13/2017 4:54 PM
+
+Links
+=====
+YAML style file
+https://perltricks.com/article/29/2013/9/17/How-to-Load-YAML-Config-Files/
