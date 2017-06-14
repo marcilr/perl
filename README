@@ -1,0 +1,26 @@
+README
+Created Wed Jun 14 08:27:40 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+docs/
+  Documentation
+
+glossary.txt
+  Glossary for perl
+
+links.txt
+  Perl related links
+
+packages.txt
+  Packages for perl
+
+perl.txt
+  Perl
+
+svn_ext_val.txt
+
+TODO
+  TODO item for perl
