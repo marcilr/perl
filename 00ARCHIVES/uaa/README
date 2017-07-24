@@ -18,6 +18,11 @@ ms_sql_server.txt
 svn_ext_val.txt
   List of repo hierarchical directories to checkout under uaa/
 
+svn_ext_val-2.txt
+  List of repo hierarchical directories to checkout under perl/
+  This was an alternate svn_ext_val.txt found on usb key under:
+    svn-ORIG-20151006/lang/perl/svn_ext_val.txt
+
 switch.txt
   UAA ITS switch.uaa.alaska.edu perl details
 
