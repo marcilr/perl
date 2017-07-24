@@ -1,0 +1,12 @@
+README
+Created Mon Jul 24 09:31:41 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+strict.txt
+  strict - Perl pragma to restrict unsafe constructs
+
+syntax.txt
+  Syntax
