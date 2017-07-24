@@ -25,6 +25,7 @@ Filelist
 ========
 list-modules.html
 list-modules.pl
+list-modules.txt
 list-modules-switch.html
   A Simple Perl Script to list all the installed Perl
   modules on your server in your Web Browser
