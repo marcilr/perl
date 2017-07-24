@@ -1,0 +1,118 @@
+cpan.txt
+Created Mon Sep 29 15:27:40 AKDT 2008
+by Raymond E. Marcil
+
+
+CPAN - Comprehensive Perl Archive Network
+http://www.cpan.org/
+
+
+cpan - easily interact with CPAN from the command line
+
+
+
+
+Mon Sep 29 15:44:05 AKDT 2008
+=============================
+Installed WDDX on switch.
+
+root@switch:~# perl -MCPAN -e shell
+ perl -MCPAN -e shell 
+cpan> install WDDX
+... many dependencies ...
+
+
+Installed: WDDX-1.02.tar.gz
+
+cpan> test WDDX
+... remove/reinstalled much ...
+
+Test Summary Report
+-------------------
+t/00.load    (Wstat: 256 Tests: 11 Failed: 1)
+  Failed test:  1
+  Non-zero exit status: 1
+t/deserialize (Wstat: 512 Tests: 0 Failed: 0)
+  Non-zero exit status: 2
+  Parse errors: No plan found in TAP output
+t/serialize  (Wstat: 512 Tests: 0 Failed: 0)
+  Non-zero exit status: 2
+  Parse errors: No plan found in TAP output
+Files=4, Tests=11,  1 wallclock secs ( 0.22 usr  0.10 sys +  0.67 cusr  0.18 csys =  1.17 
+CPU)
+Result: FAIL
+Failed 3/4 test programs. 1/11 subtests failed.
+make: *** [test_dynamic] Error 29
+  /usr/local/bin/make test -- NOT OK
+
+
+cpan> install CGI
+...
+  /usr/local/bin/make install  -- OK
+
+Installed: CGI.pm-3.42.tar.gz
+
+cpan> test CGI
+...
+Result: PASS
+  /usr/local/bin/make test -- OK
+
+
+Perl Modules Using CPAN
+=======================
+
+Run cpan shell:
+# perl -MCPAN -e shell
+
+
+cpan> h
+
+Display Information
+ command  argument          description
+ a,b,d,m  WORD or /REGEXP/  about authors, bundles, distributions, modules
+ i        WORD or /REGEXP/  about anything of above
+ r        NONE              reinstall recommendations
+ ls       AUTHOR            about files in the author's directory
+
+Download, Test, Make, Install...
+ get                        download
+ make                       make (implies get)
+ test      MODULES,         make test (implies make)
+ install   DISTS, BUNDLES   make install (implies test)
+ clean                      make clean
+ look                       open subshell in these dists' directories
+ readme                     display these dists' README files
+
+Other
+ h,?           display this menu       ! perl-code   eval a perl command
+ o conf [opt]  set and query options   q             quit the cpan shell
+ reload cpan   load CPAN.pm again      reload index  load newer indices
+ autobundle    Snapshot                force cmd     unconditionally do cmd
+cpan> 
+
+
+Install package
+===============
+Example:
+
+$ cpan install WDDX
+
+
+Remove package
+==============
+Doesn't look like cpan has any remove or uninstall command.
+
+
+
+
+Links
+=====
+CPAN - Comprehensive Perl Archive Network
+http://www.cpan.org/
+
+Perl Modules Using CPAN
+http://www.troubleshooters.com/codecorn/littperl/perlcpan.htm
+
+CPAN - query, download and build perl modules from CPAN sites
+http://kobesearch.cpan.org/htdocs/CPAN/CPAN.html
+
