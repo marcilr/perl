@@ -1,0 +1,262 @@
+list-modules.txt
+Created Mon Sep 29 16:16:25 AKDT 2008
+by Raymond E. Marcil
+
+
+List modules
+============
+root@switch:~# perl -MCPAN -e 'print CPAN::Shell->r ' 
+CPAN: Storable loaded ok
+Going to read /usr/local/cpan/Metadata
+  Database was generated on Mon, 29 Sep 2008 17:26:53 GMT
+
+Package namespace         installed    latest  in CPAN file
+AutoLoader                     5.60      5.67  S/SM/SMUELLER/AutoLoader-5.67.tar.gz
+B                           1.09_01      1.17  R/RG/RGARCIA/perl-5.10.0.tar.gz
+B::Debug                    1.02_01      1.11  R/RU/RURBAN/B-Debug-1.11.tar.gz
+B::Lint                        1.03      1.11  J/JJ/JJORE/B-Lint-1.11.tar.gz
+CPAN                        1.76_02    1.9205  A/AN/ANDK/CPAN-1.9205.tar.gz
+Cwd                            3.25    3.2701  K/KW/KWILLIAMS/PathTools-3.2701.tar.gz
+DB_File                       1.814     1.817  P/PM/PMQS/DB_File-1.817.tar.gz
+Devel::PPPort               3.06_01      3.14  M/MH/MHX/Devel-PPPort-3.14.tar.gz
+Digest                         1.14      1.15  G/GA/GAAS/Digest-1.15.tar.gz
+Encode                         2.12      2.26  D/DA/DANKOGAI/Encode-2.26.tar.gz
+Errno                       1.09_01      1.10  G/GB/GBARR/Errno-1.10.tar.gz
+Exporter                       5.58      5.63  F/FE/FERREIRA/Exporter-5.63.tar.gz
+Fatal                          1.03     1.994  P/PJ/PJF/autodie-1.994.tar.gz
+File::Path                     1.08      2.04  D/DL/DLAND/File-Path-2.04.tar.gz
+Filter::Util::Call           1.0601      1.07  P/PM/PMQS/Filter-1.34.tar.gz
+Getopt::Long                   2.35      2.37  J/JV/JV/Getopt-Long-2.37.tar.gz
+IPC::Msg                       1.02      2.00  M/MH/MHX/IPC-SysV-2.00.tar.gz
+Locale::Maketext               1.09      1.13  F/FE/FERREIRA/Locale-Maketext-1.13.tar.gz
+Math::BigFloat                 1.51      1.60  T/TE/TELS/math/Math-BigInt-1.89.tar.gz
+Math::BigRat                   0.15      0.22  T/TE/TELS/math/Math-BigRat-0.22.tar.gz
+Math::Complex                  1.35      1.54  J/JH/JHI/Math-Complex-1.54.tar.gz
+Net::Ping                      2.31      2.35  S/SM/SMPETERS/Net-Ping-2.35.tar.gz
+Pod::Man                       1.37      2.20  R/RR/RRA/podlators-2.1.4.tar.gz
+Pod::ParseUtils                1.33      1.35  M/MA/MAREKR/Pod-Parser-1.35.tar.gz
+Safe                           2.12      2.16  R/RG/RGARCIA/Safe-2.16.tar.gz
+SelfLoader                   1.0904      1.16  S/SM/SMUELLER/SelfLoader-1.16.tar.gz
+Shell                           0.6      0.72  F/FE/FERREIRA/Shell-0.72.tar.gz
+Storable                       2.15      2.18  A/AM/AMS/Storable-2.18.tar.gz
+Switch                      2.10_01      2.13  R/RG/RGARCIA/Switch-2.13.tar.gz
+Sys::Syslog                    0.13      0.27  S/SA/SAPER/Sys-Syslog-0.27.tar.gz
+Term::ANSIColor                1.10      1.12  R/RR/RRA/ANSIColor-1.12.tar.gz
+Term::Cap                      1.09      1.12  J/JS/JSTOWE/Term-Cap-1.12.tar.gz
+Test::Harness::Straps          0.26      0.30  M/MS/MSCHWERN/Test-Harness-Straps-0.30.tar.gz
+Text::Balanced                 1.95  2.000000  D/DC/DCONWAY/Text-Balanced-v2.0.0.tar.gz
+Text::Soundex                  1.01      3.03  M/MA/MARKM/Text-Soundex-3.03.tar.gz
+Text::Tabs                2005.0824 2007.1117  M/MU/MUIR/modules/Text-Tabs+Wrap-2006.1117.tar.gz
+Thread::Queue                  2.00      2.11  J/JD/JDHEDDEN/Thread-Queue-2.11.tar.gz
+Thread::Semaphore              2.01      2.09  J/JD/JDHEDDEN/Thread-Semaphore-2.09.tar.gz
+Tie::RefHash                   1.32      1.38  N/NU/NUFFIN/Tie-RefHash-1.38.tar.gz
+Time::HiRes                    1.86    1.9715  J/JH/JHI/Time-HiRes-1.9715.tar.gz
+Time::Local                    1.11      1.18  D/DR/DROLSKY/Time-Local-1.18.tar.gz
+Unicode::Normalize             0.32      1.02  S/SA/SADAHIRO/Unicode-Normalize-1.02.tar.gz
+XSLoader                       0.06      0.10  S/SA/SAPER/XSLoader-0.10.tar.gz
+base                           2.07      2.12  R/RG/RGARCIA/base-2.12.tar.gz
+bigint                         0.07      0.23  T/TE/TELS/math/bignum-0.23.tar.gz
+constant                       1.05      1.16  S/SA/SAPER/constant-1.16.tar.gz
+encoding                       2.02      2.06  D/DA/DANKOGAI/Encode-2.23.tar.gz
+threads                        1.07      1.71  J/JD/JDHEDDEN/threads-1.71.tar.gz
+threads::shared                0.94      1.26  J/JD/JDHEDDEN/threads-shared-1.26.tar.gz
+
+65 installed modules have no parseable version number
+AutoLoaderAutoSplitBB::
+ConciseB::
+DebugB::
+DeparseB::
+LintB::
+TerseBenchmarkCPANCPAN::
+FirstTimeCPAN::
+NoxCarpCwdDBM_FilterDB_FileDevel::
+PPPortDigestDirHandleEncodeEncode::
+AliasEncode::
+ByteEncode::
+CJKConstantsEncode::
+CNEncode::
+CN::
+HZEncode::
+ConfigEncode::
+EBCDICEncode::
+EncoderEncode::
+EncodingEncode::
+GuessEncode::
+JPEncode::
+JP::
+H2ZEncode::
+JP::
+JIS7Encode::
+KREncode::
+KR::
+2022_KREncode::
+MIME::
+HeaderEncode::
+MIME::
+Header::
+ISO_2022_JPEncode::
+SymbolEncode::
+TWEncode::
+UnicodeEncode::
+Unicode::
+UTF7EnglishErrnoExporterExporter::
+HeavyFatalFcntlFile::
+BasenameFile::
+CompareFile::
+CopyFile::
+FindFile::
+GlobFile::
+PathFile::
+SpecFile::
+Spec::
+CygwinFile::
+Spec::
+EpocFile::
+Spec::
+FunctionsFile::
+Spec::
+MacFile::
+Spec::
+OS2File::
+Spec::
+UnixFile::
+Spec::
+VMSFile::
+Spec::
+Win32FileCacheFilter::
+Util::
+CallFindBinGetopt::
+LongHash::
+UtilIPC::
+MsgIPC::
+SemaphoreIPC::
+SysVLocale::
+MaketextLocale::
+Maketext::
+GutsLocale::
+Maketext::
+GutsLoaderMath::
+BigFloatMath::
+BigIntMath::
+BigInt::
+CalcMath::
+BigRatMath::
+ComplexMath::
+TrigNDBM_FileNet::
+PingODBM_FileOpcodePOSIXPerlIO::
+encodingPerlIO::
+scalarPerlIO::
+viaPod::
+HtmlPod::
+ManPod::
+ParseLinkPod::
+ParseUtilsPod::
+ParserPod::
+SelectPod::
+TextPod::
+Text::
+ColorPod::
+Text::
+OverstrikePod::
+Text::
+TermcapPod::
+UsageSDBM_FileSafeSelfLoaderShellSocketStorableSwitchSys::
+SyslogTerm::
+ANSIColorTerm::
+CapTerm::
+ReadLineTest::
+Harness::
+StrapsText::
+BalancedText::
+ParseWordsText::
+SoundexText::
+TabsText::
+WrapThreadThread::
+QueueThread::
+SemaphoreTie::
+MemoizeTie::
+RefHashTime::
+HiResTime::
+LocalTime::
+gmtimeUNIVERSALUnicode::
+NormalizeUnicode::
+UCDXS::
+APItestXSLoaderattributesautousebasebigintbignumbig\
+ratbytescharnamesconstantdiagnosticsencodingfields\
+filetestlessopenoverloadresigtrapsortstrictthreadsthreads::
+sharedutf8warnings
+
+NOTE: Could certainly be pairs above.
+
+List module directories
+=======================
+root@switch:~# perl -e'print join "\n", @INC' 
+/opt/csw/lib/perl/5.8.8
+/opt/csw/share/perl/5.8.8
+/opt/csw/lib/perl/site_perl
+/opt/csw/share/perl/site_perl
+/opt/csw/share/perl/site_perl
+/opt/csw/lib/perl/csw
+/opt/csw/share/perl/csw
+/opt/csw/share/perl/csw
+
+Build module
+============
+perl Makefile.PL
+make
+make test
+make install
+
+
+Build and install module
+========================
+$ tar zxvpf WDDX-1.02.tar.gz
+$ cd WDDX-1.02/
+$ perl Makefile.PL
+Checking if your kit is complete...
+Looks good
+Writing Makefile for WDDX
+$ make
+cp WDDX/Struct.pm blib/lib/WDDX/Struct.pm
+cp WDDX/Datetime.pm blib/lib/WDDX/Datetime.pm
+cp WDDX.pm blib/lib/WDDX.pm
+cp WDDX/Parser.pm blib/lib/WDDX/Parser.pm
+cp WDDX/Array.pm blib/lib/WDDX/Array.pm
+cp WDDX/String.pm blib/lib/WDDX/String.pm
+cp WDDX/Binary.pm blib/lib/WDDX/Binary.pm
+cp WDDX/Recordset.pm blib/lib/WDDX/Recordset.pm
+cp WDDX/Null.pm blib/lib/WDDX/Null.pm
+cp WDDX/Boolean.pm blib/lib/WDDX/Boolean.pm
+cp WDDX/Number.pm blib/lib/WDDX/Number.pm
+Manifying blib/man3/WDDX.3pm
+
+marcilr@boothite:/usr/local/src/WDDX-1.02$ su
+Password: 
+boothite:/usr/local/src/WDDX-1.02# make install
+Installing /usr/local/share/perl/5.8.8/WDDX.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Boolean.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Binary.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/String.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Recordset.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Null.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Struct.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Parser.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Datetime.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Number.pm
+Installing /usr/local/share/perl/5.8.8/WDDX/Array.pm
+Installing /usr/local/man/man3/WDDX.3pm
+Writing /usr/local/lib/perl/5.8.8/auto/WDDX/.packlist
+Appending installation info to /usr/local/lib/perl/5.8.8/perllocal.pod
+boothite:/usr/local/src/WDDX-1.02#
+
+
+Links
+=====
+list-modules.pl
+Script to list perl modules
+http://www.moonpoint.com/languages/perl/list-modules.pl
+
+Perl Server Side CGI Scripting
+Notes on listing modules.
+http://www.webmasterworld.com/forum13/4081.htm
+
