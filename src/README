@@ -6,6 +6,7 @@ Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 Filelist
 ========
 batchadd/
+  UAA ITS script to process queued account creations.
   Perl script to process queued account creations.
   From Joe Watson via gmail May 1, 2013.
 
