@@ -10,5 +10,8 @@ cpan.txt
   cpan - easily interact with CPAN from the command line
   http://www.cpan.org/
 
+cpanm.txt
+  cpanm - get, unpack build and install modules from CPAN
+
 install-from-source.txt
   Install a Perl module from source
