@@ -1,0 +1,14 @@
+README
+Created Mon Jul 24 09:09:08 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+cpan.txt
+  CPAN - Comprehensive Perl Archive Network
+  cpan - easily interact with CPAN from the command line
+  http://www.cpan.org/
+
+install-from-source.txt
+  Install a Perl module from source
