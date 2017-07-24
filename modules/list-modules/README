@@ -26,6 +26,7 @@ Filelist
 list-modules.html
 list-modules.pl
 list-modules-switch.html
-  List perl modules install on this server
+  A Simple Perl Script to list all the installed Perl
+  modules on your server in your Web Browser
   Free from Webnet77.com
   https://webnet77.net/scripts/list-modules/
