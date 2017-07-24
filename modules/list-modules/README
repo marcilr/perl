@@ -1,0 +1,31 @@
+README
+Created Mon Jul 24 09:19:21 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+A Simple Perl Script to list all the installed Perl
+modules on your server in your Web Browser
+
+Formatted HTML output compatible with most browsers
+
+
+Server and Module Requirements
+==============================
+o A *NIX server (Linux, UNIX etc) with Perl 5.006
+  or later installed (It will probably run on Windoze
+  too but it has NOT been tested on this platform.
+  If you run it on a Win32 platform you do so at your
+  own risk), 
+
+o Requires File::Find Perl module to be installed on
+  your server. (Most Servers have this module)
+
+
+Filelist
+========
+list-modules.html
+list-modules.pl
+list-modules-switch.html
+  List perl modules install on this server
+  Free from Webnet77.com
+  https://webnet77.net/scripts/list-modules/
