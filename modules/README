@@ -46,6 +46,12 @@ Getopt::Lucid/
 links.txt
   Perl module related links.
 
+list-modules/
+  A Simple Perl Script to list all the installed Perl
+  modules on your server in your Web Browser
+  Free from Webnet77.com
+  https://webnet77.net/scripts/list-modules/
+
 Module::ScanDeps/
   Recursively scan Perl code for dependencies
   http://search.cpan.org/~rschupp/Module-ScanDeps-1.17/lib/Module/ScanDeps.pm
