@@ -8,6 +8,10 @@ Filelist
 src/
   Source code
 
+
+src/svn_ext_val.txt
+  List of repo hierarchical directories to checkout under src/
+
 svn_ext_val.txt
   List of repo hierarchical directories to checkout under perl/
 
