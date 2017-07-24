@@ -5,6 +5,10 @@ Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+batchadd/
+  Perl script to process queued account creations.
+  From Joe Watson via gmail May 1, 2013.
+
 md5sum.pl
   Perl code to get md5sum of string.
 
