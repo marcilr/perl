@@ -1,11 +1,6 @@
 README
-<<<<<<< HEAD
-Created Wed Jun 14 08:27:40 AKDT 2017
-Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
-=======
-Created Thu Dec  8 15:20:18 AKST 2016
-Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
->>>>>>> f2dcbe1ef7bb9f904d25899881912f1f4a47c10c
+Created Wed Feb 17 14:22:17 AKST 2010
+by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Filelist
@@ -13,56 +8,41 @@ Filelist
 00ARCHIVES/
   Archives
 
-<<<<<<< HEAD
-=======
 debug/
   Debugging in perl
 
->>>>>>> f2dcbe1ef7bb9f904d25899881912f1f4a47c10c
 docs/
   Documentation
 
 glossary.txt
   Glossary for perl
 
-<<<<<<< HEAD
 links.txt
   Perl related links
 
-=======
 ide/
   Integrated Development Environment (ide) for perl
 
 links.txt
   Perl related links
-  
->>>>>>> f2dcbe1ef7bb9f904d25899881912f1f4a47c10c
+
 packages.txt
   Packages for perl
 
 perl.txt
-<<<<<<< HEAD
-  Perl
-
-svn_ext_val.txt
-
-TODO
-  TODO item for perl
-=======
   PERL -- Practical Extraction and Report Language
 
 pics/
   Pictures
 
+TODO
+  TODO items for perl
+
 src/
   Source code
-
-svn_ext_val.txt
-  List of repo hierarchical directories to checkout under perl/
 
 test/
   Testing in perl
 
 TODO
   Items for perl
->>>>>>> f2dcbe1ef7bb9f904d25899881912f1f4a47c10c
