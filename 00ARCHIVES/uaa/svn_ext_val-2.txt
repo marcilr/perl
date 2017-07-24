@@ -1,0 +1,18 @@
+#
+# svn_ext_val.txt
+# Created Wed May  1 16:15:24 AKDT 2013
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+
+
+#
+# List of repo hierarchical directories to checkout under perl/
+#
+# batchadd/   UAA ITS script to process queued account creations.
+#
+./batchadd    svn+ssh://home/data/svnroot/lang/perl/batchadd/batchadd
+
+
+#
+# List of subversion repositories to checkout under perl/
+#
