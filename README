@@ -41,6 +41,9 @@ TODO
 src/
   Source code
 
+syntax/
+  Syntax
+
 test/
   Testing in perl
 
