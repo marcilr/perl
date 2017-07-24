@@ -35,7 +35,20 @@ Thanks,
 
 Charles
 
-[root@sps4dv01multi4 sps4-web]# /usr/local/bin/cpanm URI::Encode
-
-
 --Charles An, at GCI NIT, Thu 7/20/2017 1:47 PM
+
+
+Tried on development-ray.operations.gci.com (192.168.56.48)
+on July 24, 2017:
+
+[rmarcil@development-ray ~]$ sudo su
+[root@development-ray rmarcil]# /usr/local/bin/cpanm URI::Encode
+--> Working on URI::Encode
+Fetching http://www.cpan.org/authors/id/M/MI/MITHUN/URI-Encode-v1.1.1.tar.gz ... OK
+Configuring URI-Encode-v1.1.1 ... OK
+Building and testing URI-Encode-v1.1.1 ... OK
+Successfully installed URI-Encode-v1.1.1
+1 distribution installed
+[root@development-ray rmarcil]#
+
+Looks good.
