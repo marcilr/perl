@@ -8,9 +8,6 @@ Filelist
 md5sum.pl
   Perl code to get md5sum of string.
 
-svn_ext_val.txt
-  List of repo hierarchical directories to checkout under src/
-
 wunderg.pl
   Script to query weather undergound:
   ./wunderg.pl anchorage,alaska
