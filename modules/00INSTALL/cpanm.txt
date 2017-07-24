@@ -1,0 +1,41 @@
+cpanm.txt
+Created Mon Jul 24 09:39:58 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+cpanm - get, unpack build and install modules from CPAN
+
+
+
+Synopsis
+========
+cpanm Test::More                                 # install Test::More
+cpanm MIYAGAWA/Plack-0.99_05.tar.gz              # full distribution path
+cpanm http://example.org/LDS/CGI.pm-3.20.tar.gz  # install from URL
+cpanm ~/dists/MyCompany-Enterprise-1.00.tar.gz   # install from a local file
+cpanm --interactive Task::Kensho                 # Configure interactively
+cpanm .                                          # install from local directory
+cpanm --installdeps .                            # install all the deps for the current directory
+cpanm -L extlib Plack                            # install Plack and all non-core deps into extlib
+cpanm --mirror http://cpan.cpantesters.org/ DBI  # use the fast-syncing mirror
+
+
+
+Exmaples
+========
+I just update the cpanfile to add “URI::Encode”, in order to deploy
+to osstest and dev.
+
+For your local instance of development, please use following command
+to install them.
+
+[root@sps4dv01multi4 sps4-web]# /usr/local/bin/cpanm URI::Encode
+
+Thanks,
+
+Charles
+
+[root@sps4dv01multi4 sps4-web]# /usr/local/bin/cpanm URI::Encode
+
+
+--Charles An, at GCI NIT, Thu 7/20/2017 1:47 PM
