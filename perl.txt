@@ -3,8 +3,11 @@ Created Mon Dec 28 19:31:30 AKST 2009
 by Raymond E. Marcil
 
 
-PERL -- Practical Extraction and Report Language
+Pathologically Eclectic Rubbish Lister - Larry Wall
+--wikipedia.org/wiki/Perl
 
+
+PERL -- Practical Extraction and Report Language
 
 Perl is sometimes called the "Practical Extraction and Report Language,"
 although it has also been called a "Pathologically Eclectic Rubbish Lister,"
@@ -48,3 +51,7 @@ Links
 =====
 Gtk2-Perl Home Page
 http://live.gnome.org/GTK2-Perl/FrequentlyAskedQuestions
+
+Pathologically Eclectic Rubbish Lister - Larry Wall
+http://en.wikipedia.org/wiki/Perl
+
