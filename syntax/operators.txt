@@ -1,0 +1,44 @@
+operators.txt
+Created Mon Jan  7 07:53:38 AST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Operators
+
+
+What does =~ do in Perl?
+========================
+=~ is the operator testing a regular expression match. The expression
+/9eaf/ is a regular expression (the slashes // are delimiters, the 9eaf
+is the actual regular expression). In words, the test is saying "If the
+variable $tag matches the regular expression /9eaf/ ..." and this match
+occurs if the string stored in $tag contains those characters 9eaf
+consecutively, in order, at any point. So this will be true for the
+strings
+
+  9eaf
+
+  xyz9eaf
+
+  9eafxyz
+
+  xyz9eafxyz
+
+and many others, but not the strings
+
+  9eaxxx
+  9xexaxfx
+
+and many others. Look up the 'perlre' man page for more information on
+regular expressions, or google "perl regular expression"
+--answered Apr 4 '12 at 20:56
+  jmhl
+
+  edited Apr 19 '17 at 13:16
+  simbabque
+
+
+Links
+=====
+What does =~ do in Perl? [closed]
+https://stackoverflow.com/questions/10019049/what-does-do-in-perl
