@@ -43,6 +43,11 @@ Getopt::Lucid/
   https://github.com/dagolden/getopt-lucid
   http://search.cpan.org/dist/Getopt-Lucid
 
+how-to-install-perl-modules.pdf
+  How to install perl modules (including cpan)?
+  SOLUTION VERIFIED - Updated August 6 2019 at 2:36 AM 
+  https://access.redhat.com/solutions/4147
+
 links.txt
   Perl module related links.
 
